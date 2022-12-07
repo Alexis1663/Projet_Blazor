@@ -1,70 +1,82 @@
-@page "/AddInventaire"
+using BlazorApp1.Models;
+using Microsoft.AspNetCore.Components.Forms;
 
-<h3>Ajout d'outils dans l'inventaire</h3>
+namespace BlazorApp1.Pages
+{
+    public partial class AddInventaire
+    {
 
-<p>Utilisez le formulaire ci-dessous pour ajouter un item dans votre inventaire</p>
+        private List<string> EnchantCategories = new List<string>() { "Aura de feu", "Recul", "Puissance", "Durabilité", "Châtiment" };
+        private List<string> BuildWith = new List<string>() { "Bâton", "Bois", " Pierre", "Fer", "Or", "Diamand", "Autres" };
+        private List<string> RepairWith = new List<string>() { "Bois", "Pierre", "Fer", "Or", "Diamand", "Autre" };
 
-<EditForm Model="@tool" OnValidSubmit="@HandleValidSubmit">
-    <DataAnnotationsValidator />
-    <ValidationSummary />
-<p>
-        <label for="name">
-            Nom:
-            <InputText id="name" @bind-Value="tool.ToolName" />
-        </label>
-    </p>
-        <p>
-        <label for="tool-max-durability">
-            Durabilité de l'outil :
-            <InputNumber id="tool-max-durability" @bind-Value="tool.ToolMaxDurability"/>
-        </label>
-    </p>
-        <p>
-        Enchantements:
-        <div>
-            @foreach (var item in EnchantCategories)
+
+        private ToolModel tool = new()
+        {
+            
+            EnchantCategories = new List<string>(),
+            RepairWith = new List<string>()
+        };
+
+        private async void HandleValidSubmit()
+        {
+
+        }
+
+        private async Task LoadImage(InputFileChangeEventArgs e)
+        {
+            // Set the content of the image to the model
+            using (var memoryStream = new MemoryStream())
             {
-                <label>
-                    <input type="checkbox" @onchange="@(e => OnEnchantCategoriesChange(item, e.Value))" />@item
-                </label>
+                await e.File.OpenReadStream().CopyToAsync(memoryStream);
+                tool.ImageContent = memoryStream.ToArray();
             }
-        </div>
-    </p>
- 
-       <p>
-        A réparer avec :
-        <div>
-            @foreach (var item in RepairWith)
-            {
-                <label>
-                    <input type="checkbox" @onchange="@(e => OnRepairWithChange(item, e.Value))" />@item
-                </label>
-            }
-        </div>
-    </p>
-    <p>
-        A construire avec :
-        <div>
-            @foreach (var item in BuildWith)
-            {
-                <label>
-                    <input type="checkbox" @onchange="@(e => OnRepairWithChange(item, e.Value))" />@item
-                </label>
-            }
-        </div>
-    </p>
-    <p>
-        <label>
-            Image de l'outil:
-            <InputFile OnChange="@LoadImage" accept=".png" />
-        </label>
-    </p>
-    <p>
-        <label>
-            Usage réservé à l'outil:
-            <InputText id="toolUse" @bind-Value="tool.ToolUse" />
-        </label>
-    </p>
+        }
 
-    <button type="submit">Ajouter</button>
-</EditForm>
+        private void OnEnchantCategoriesChange(string item, object checkedValue)
+        {
+            if ((bool)checkedValue)
+            {
+                if (!tool.EnchantCategories.Contains(item))
+                {
+                    tool.EnchantCategories.Add(item);
+                }
+
+                return;
+            }
+
+            if (tool.EnchantCategories.Contains(item))
+            {
+                tool.EnchantCategories.Remove(item);
+            }
+        }
+
+        private void OnRepairWithChange(string item, object checkedValue)
+        {
+            if ((bool)checkedValue)
+            {
+                if (!tool.RepairWith.Contains(item))
+                {
+                    tool.RepairWith.Add(item);
+                }
+
+                return;
+            }
+
+        }
+
+        private void OnBuildWithChange(string item, object checkedValue)
+        {
+            if ((bool)checkedValue)
+            {
+                if (!tool.BuildWith.Contains(item))
+                {
+                    tool.BuildWith.Add(item);
+                }
+
+                return;
+            }
+
+        }
+    }
+}
