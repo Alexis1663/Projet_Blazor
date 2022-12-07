@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Abimes.jpg",
+      "PackagePath": "staticwebassets\\Image\\Abimes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Bosquet.jpg",
+      "PackagePath": "staticwebassets\\Image\\Bosquet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Canyon.jpg",
+      "PackagePath": "staticwebassets\\Image\\Canyon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Canyon_erodees.jpg",
+      "PackagePath": "staticwebassets\\Image\\Canyon_erodees.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Cavernes_luxuriantes.jpg",
+      "PackagePath": "staticwebassets\\Image\\Cavernes_luxuriantes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Cavernes_speleothemes.jpg",
+      "PackagePath": "staticwebassets\\Image\\Cavernes_speleothemes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Champs_champignons.jpg",
+      "PackagePath": "staticwebassets\\Image\\Champs_champignons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Deltas_basalte.jpg",
+      "PackagePath": "staticwebassets\\Image\\Deltas_basalte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Desert.jpg",
+      "PackagePath": "staticwebassets\\Image\\Desert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\End.jpg",
+      "PackagePath": "staticwebassets\\Image\\End.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_biscornue.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret_biscornue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_bouleaux.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret_bouleaux.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_carmin.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret_carmin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_fleurie.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret_fleurie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_grand_bouleaux.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret_grand_bouleaux.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_sombre.jpg",
+      "PackagePath": "staticwebassets\\Image\\Foret_sombre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Hautes_terres_end.jpg",
+      "PackagePath": "staticwebassets\\Image\\Hautes_terres_end.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Jungle.jpg",
+      "PackagePath": "staticwebassets\\Image\\Jungle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Jungle_bambous.jpg",
+      "PackagePath": "staticwebassets\\Image\\Jungle_bambous.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Marais.jpg",
+      "PackagePath": "staticwebassets\\Image\\Marais.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Marais_mangroves.jpg",
+      "PackagePath": "staticwebassets\\Image\\Marais_mangroves.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne.jpg",
+      "PackagePath": "staticwebassets\\Image\\Montagne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne_boisees.jpg",
+      "PackagePath": "staticwebassets\\Image\\Montagne_boisees.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne_graveleuses.jpg",
+      "PackagePath": "staticwebassets\\Image\\Montagne_graveleuses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Oree_jungle.jpg",
+      "PackagePath": "staticwebassets\\Image\\Oree_jungle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pentes_enneigees.jpg",
+      "PackagePath": "staticwebassets\\Image\\Pentes_enneigees.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Petites_iles_end.jpg",
+      "PackagePath": "staticwebassets\\Image\\Petites_iles_end.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_denteles.jpg",
+      "PackagePath": "staticwebassets\\Image\\Pics_denteles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_geles.jpg",
+      "PackagePath": "staticwebassets\\Image\\Pics_geles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_rocheux.jpg",
+      "PackagePath": "staticwebassets\\Image\\Pics_rocheux.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plage.jpg",
+      "PackagePath": "staticwebassets\\Image\\Plage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plaine.jpg",
+      "PackagePath": "staticwebassets\\Image\\Plaine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plaine_tournesols.jpg",
+      "PackagePath": "staticwebassets\\Image\\Plaine_tournesols.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plateau_canyon_boisees.jpg",
+      "PackagePath": "staticwebassets\\Image\\Plateau_canyon_boisees.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plateau_savane.jpg",
+      "PackagePath": "staticwebassets\\Image\\Plateau_savane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Prairie.jpg",
+      "PackagePath": "staticwebassets\\Image\\Prairie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Savane.jpg",
+      "PackagePath": "staticwebassets\\Image\\Savane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Savane_accidentee.jpg",
+      "PackagePath": "staticwebassets\\Image\\Savane_accidentee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Stalagmites_glace.jpg",
+      "PackagePath": "staticwebassets\\Image\\Stalagmites_glace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga.jpg",
+      "PackagePath": "staticwebassets\\Image\\Taiga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_enneigee.jpg",
+      "PackagePath": "staticwebassets\\Image\\Taiga_enneigee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_grand_arbre.jpg",
+      "PackagePath": "staticwebassets\\Image\\Taiga_grand_arbre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_grand_sapin.jpg",
+      "PackagePath": "staticwebassets\\Image\\Taiga_grand_sapin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_desolees_Nether.jpg",
+      "PackagePath": "staticwebassets\\Image\\Terres_desolees_Nether.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_moyennes_end.jpg",
+      "PackagePath": "staticwebassets\\Image\\Terres_moyennes_end.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_stériles_end.jpg",
+      "PackagePath": "staticwebassets\\Image\\Terres_stériles_end.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Toundra_enneigee.jpg",
+      "PackagePath": "staticwebassets\\Image\\Toundra_enneigee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Vallee_ames.jpg",
+      "PackagePath": "staticwebassets\\Image\\Vallee_ames.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\cote_rocheuse.jpg",
+      "PackagePath": "staticwebassets\\Image\\cote_rocheuse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_chaud.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_chaud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_froid.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_froid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_froid_profond.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_froid_profond.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_gelee.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_gelee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_gelee_profond.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_gelee_profond.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_profond.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_profond.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_tiede.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_tiede.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_tiede_profond.jpg",
+      "PackagePath": "staticwebassets\\Image\\ocean_tiede_profond.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\plage_enneigee.jpg",
+      "PackagePath": "staticwebassets\\Image\\plage_enneigee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\riviere.jpg",
+      "PackagePath": "staticwebassets\\Image\\riviere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\riviere_gelee.jpg",
+      "PackagePath": "staticwebassets\\Image\\riviere_gelee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\biome-fake-data.json",
+      "PackagePath": "staticwebassets\\biome-fake-data.json"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorApp1.props",
+      "PackagePath": "build\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1.props",
+      "PackagePath": "buildTransitive\\BlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
