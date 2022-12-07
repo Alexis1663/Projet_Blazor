@@ -1,3 +1,7 @@
+.NavMenuCssClass {
+    background-image: url(../Image/fondBois.jpg);
+}
+
 nav{
     display: flex;
     align-items: center;
