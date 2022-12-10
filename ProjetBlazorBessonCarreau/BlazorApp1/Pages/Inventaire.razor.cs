@@ -36,7 +36,7 @@ namespace BlazorApp1.Pages
             }
         }
 
-        private async Task OnReadData(DataGridReadDataEventArgs<Item> e)
+        /*private async Task OnReadData(DataGridReadDataEventArgs<Item> e)
         {
             if (e.CancellationToken.IsCancellationRequested)
             {
@@ -52,7 +52,6 @@ namespace BlazorApp1.Pages
                 totalItem = (await LocalStorage.GetItemAsync<List<Tool>>("data")).Count;
                 tools = new List<Tool>(response); // an actual data for the current page
             }
-        }
+        }*/
     }
-}
 }

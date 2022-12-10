@@ -74,6 +74,10 @@ main[b-45rkf8v3vv] {
     }
 }
 /* _content/BlazorApp1/Shared/NavMenu.razor.rz.scp.css */
+.NavMenuCssClass[b-b5wscdn8ts] {
+    background-image: url(../Image/fondBois.jpg);
+}
+
 nav[b-b5wscdn8ts]{
     display: flex;
     align-items: center;
