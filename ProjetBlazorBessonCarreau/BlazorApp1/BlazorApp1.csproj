@@ -15,6 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Blazored.LocalStorage" Version="4.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Update="wwwroot\Image\ocean.jpg">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Content>

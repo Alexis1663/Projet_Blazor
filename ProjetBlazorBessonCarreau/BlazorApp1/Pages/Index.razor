@@ -1,19 +1,20 @@
 ﻿@page "/"
 
-<PageTitle>Nom de l'application</PageTitle>
+<LanguageSelector />
+
+<PageTitle>@Localizer["Title"]</PageTitle>
 
 <div class="presentation">
-    <h1>Nom de l'application</h1>
+    <h1>@Localizer["ApplicationName"]</h1>
 
-    <h3>Pourquoi nous utiliser ?</h3>
+    <h3>@Localizer["Question1"]</h3>
 
     <p>
-        Salut l'amis !!! Ici tu retrouveras une multitude d'informations en rapport avec l'univers de minecraft.
-        Par exemple, en cliquant sur l'onglet "les biomes" tu pourras : <br/>
+        @Localizer["Presentation"]<br />
         <ul>
-            <li>Retrouver le nom de tous les biomes disponibles sur Minecraft</li>
-            <li>Retrouver les minerais disponible dans ce biome</li>
-            <li>Retrouver les mobs vivants dans ce biome</li>
+            <li>@Localizer["Li1"]</li>
+            <li>@Localizer["Li2"]</li>
+            <li>@Localizer["Li3"]</li>
         </ul>
     </p>
 </div>
