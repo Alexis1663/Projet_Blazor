@@ -28,4 +28,4 @@ public class CultureController : Controller
 
         return this.LocalRedirect(redirectUri);
     }
-}
+}  
