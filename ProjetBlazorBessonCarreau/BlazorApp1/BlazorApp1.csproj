@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\Inventaire.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="wwwroot\Image\ocean.jpg" />
   </ItemGroup>
 
@@ -16,12 +20,25 @@
 
   <ItemGroup>
     <PackageReference Include="Blazored.LocalStorage" Version="4.3.0" />
+    <PackageReference Include="Blazorise.DataGrid" Version="1.1.4.1" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Update="wwwroot\Image\ocean.jpg">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Inventaire.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Inventaire.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Inventaire.razor" />
   </ItemGroup>
 
 </Project>

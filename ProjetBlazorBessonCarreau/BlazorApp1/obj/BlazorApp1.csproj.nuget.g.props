@@ -12,4 +12,8 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\besso\.nuget\packages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)blazorise\1.1.4.1\buildTransitive\Blazorise.props" Condition="Exists('$(NuGetPackageRoot)blazorise\1.1.4.1\buildTransitive\Blazorise.props')" />
+    <Import Project="$(NuGetPackageRoot)blazorise.datagrid\1.1.4.1\buildTransitive\Blazorise.DataGrid.props" Condition="Exists('$(NuGetPackageRoot)blazorise.datagrid\1.1.4.1\buildTransitive\Blazorise.DataGrid.props')" />
+  </ImportGroup>
 </Project>

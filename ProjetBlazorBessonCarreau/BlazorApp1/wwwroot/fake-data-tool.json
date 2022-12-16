@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "ToolName": "Epee_diamand",
+    "StackSize": "1;",
+    "ToolMaxDurability": 150,
+
+    "EnchantCategories" [ "aura de feu" ],
+
+    "RepairWith" [ "diamand" ],
+
+    "BuildWith" [ "diamand" ]
+
+  }
+]

@@ -16,8 +16,6 @@ namespace BlazorApp1.Models
         [Range(1, 200, ErrorMessage = "La durabilité est comprise entre 1 et 200")]
         public int ToolMaxDurability { get; set; }
 
-        public string ToolUse { get; set; }
-
         public List<string> EnchantCategories { get; set; }
 
         public List<string> RepairWith { get; set; }

@@ -1,22 +1,31 @@
-using BlazorApp1.Models;
+﻿using BlazorApp1.Models;
 using Blazored.LocalStorage;
+using Blazorise;
+using Blazorise.DataGrid;
 using Microsoft.AspNetCore.Components;
 
 namespace BlazorApp1.Pages
 {
     public partial class Inventaire
     {
-        private List<Tool> tools;
+        private int totalTools;
+        private Tool[] tools;
 
         [Inject]
         public HttpClient Http { get; set; }
 
-        [Inject]
-        public ILocalStorageService LocalStorage { get; set; }
+        //[Inject]
+        //public ILocalStorageService LocalStorage { get; set; }
 
         [Inject]
         public NavigationManager NavigationManager { get; set; }
 
+
+        /*protected override async Task OnInitializedAsync()
+        {
+            tools = await Http.GetFromJsonAsync<Tool[]>($"{NavigationManager.BaseUri}fake-data-tool.json");
+        }
+        /*
         protected override async Task OnAfterRenderAsync(bool firstRender)
         {
             // Do not treat this action if is not the first render
@@ -36,20 +45,19 @@ namespace BlazorApp1.Pages
             }
         }
 
-        /*private async Task OnReadData(DataGridReadDataEventArgs<Item> e)
+        
+        private async Task OnReadData(DataGridReadDataEventArgs<Tool> t)
         {
-            if (e.CancellationToken.IsCancellationRequested)
+            if (t.CancellationToken.IsCancellationRequested)
             {
                 return;
             }
 
-            // When you use a real API, we use this follow code
-            //var response = await Http.GetJsonAsync<Data[]>( $"http://my-api/api/data?page={e.Page}&pageSize={e.PageSize}" );
-            var response = (await LocalStorage.GetItemAsync<Tool[]>("data")).Skip((e.Page - 1) * e.PageSize).Take(e.PageSize).ToList();
+            var response = (await LocalStorage.GetItemAsync<Tool[]>("data")).Skip((t.Page - 1) * t.PageSize).Take(t.PageSize).ToList();
 
-            if (!e.CancellationToken.IsCancellationRequested)
+            if (!t.CancellationToken.IsCancellationRequested)
             {
-                totalItem = (await LocalStorage.GetItemAsync<List<Tool>>("data")).Count;
+                totalTools = (await LocalStorage.GetItemAsync<List<Tool>>("data")).Count;
                 tools = new List<Tool>(response); // an actual data for the current page
             }
         }*/

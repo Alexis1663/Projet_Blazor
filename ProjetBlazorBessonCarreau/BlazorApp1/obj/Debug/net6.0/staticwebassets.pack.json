@@ -205,6 +205,10 @@
       "PackagePath": "staticwebassets\\Image\\cote_rocheuse.jpg"
     },
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\fondBois.png",
+      "PackagePath": "staticwebassets\\Image\\fondBois.png"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean.jpg",
       "PackagePath": "staticwebassets\\Image\\ocean.jpg"
     },
@@ -303,6 +307,10 @@
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\fake-data-tool.json",
+      "PackagePath": "staticwebassets\\fake-data-tool.json"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\favicon.ico",
