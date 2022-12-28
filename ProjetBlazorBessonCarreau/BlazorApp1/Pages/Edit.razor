@@ -1,0 +1,71 @@
+﻿@page "/edit/{Id:int}"
+
+<h3>Edit</h3>
+
+<div>Mon paramètre: @Id</div>
+
+<EditForm Model="@toolModel" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>
+        <label for="name">
+            Nom:
+            <InputText id="name" @bind-Value="toolModel.ToolName" />
+        </label>
+    </p>
+    <p>
+        <label for="tool-max-durability">
+            Durabilité:
+            <InputNumber id="tool-max-durability" @bind-Value="toolModel.ToolMaxDurability" />
+        </label>
+    </p>
+    <p>
+        Enchantements:
+        <div>
+            @foreach (var item in EnchantCategories)
+            {
+                <label>
+                    <input type="checkbox" @onchange="@(e => OnEnchantCategoriesChange(item, e.Value))" checked="@(toolModel.EnchantCategories.Contains(item) ? "checked" : null)" />@item
+                </label>
+            }
+        </div>
+    </p>
+    <p>
+        A réparer avec:
+        <div>
+            @foreach (var item in RepairWith)
+            {
+                <label>
+                    <input type="checkbox" @onchange="@(e => OnRepairWithChange(item, e.Value))" checked="@(toolModel.RepairWith.Contains(item) ? "checked" : null)" />@item
+                </label>
+            }
+        </div>
+    </p>
+
+    <p>
+        Construit avec:
+        <div>
+            @foreach (var item in BuildWith)
+            {
+                <label>
+                    <input type="checkbox" @onchange="@(e => OnBuildWithChange(item, e.Value))" checked="@(toolModel.RepairWith.Contains(item) ? "checked" : null)" />@item
+                </label>
+            }
+        </div>
+    </p>
+    <p>
+        <label>
+            Image actuelle :
+                <img src="images/@(toolModel.ToolName).png" class="img-thumbnail" alt="@toolModel.ToolName" style="max-width: 150px" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Image de l'outil:
+            <InputFile OnChange="@LoadImage" accept=".png" />
+        </label>
+    </p>
+
+    <button type="submit">Submit</button>
+</EditForm>

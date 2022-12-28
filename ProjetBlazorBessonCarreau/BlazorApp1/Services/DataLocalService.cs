@@ -1,6 +1,7 @@
 ﻿using BlazorApp1.Models;
 using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components;
+using BlazorApp1.Factories;
 
 namespace BlazorApp1.Services
 {
@@ -32,15 +33,7 @@ namespace BlazorApp1.Services
             model.Id = currentData.Max(s => s.Id) + 1;
 
             // Add the item to the current data
-            currentData.Add(new Tool
-            {
-                Id = model.Id,
-                ToolName = model.ToolName,
-                BuildWith = model.BuildWith,
-                RepairWith = model.RepairWith,
-                EnchantCategories = model.EnchantCategories,
-                ToolMaxDurability = model.ToolMaxDurability,
-            });
+            currentData.Add(ToolFactory.Create(model));
 
             // Save the image
             var imagePathInfo = new DirectoryInfo($"{_webHostEnvironment.WebRootPath}/images");
@@ -151,11 +144,7 @@ namespace BlazorApp1.Services
             await File.WriteAllBytesAsync(fileName.FullName, model.ImageContent);
 
             // Modify the content of the item
-            item.ToolName = model.ToolName;
-            item.RepairWith = model.RepairWith;
-            item.EnchantCategories = model.EnchantCategories;
-            item.ToolName = model.ToolName;
-            item.BuildWith = model.BuildWith;
+            ToolFactory.Update(item, model);
 
             // Save the data
             await _localStorage.SetItemAsync("data", currentData);

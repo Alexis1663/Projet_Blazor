@@ -309,10 +309,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\fake-data-items.json",
-      "PackagePath": "staticwebassets\\fake-data-items.json"
-    },
-    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\fake-data-tool.json",
       "PackagePath": "staticwebassets\\fake-data-tool.json"
     },
@@ -321,8 +317,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyui.png",
-      "PackagePath": "staticwebassets\\images\\azertyui.png"
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Epee_diamant.png",
+      "PackagePath": "staticwebassets\\images\\Epee_diamant.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Jeremy.png",
+      "PackagePath": "staticwebassets\\images\\Jeremy.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",
+      "PackagePath": "staticwebassets\\images\\azertyuiop.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\default.png",
+      "PackagePath": "staticwebassets\\images\\default.png"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\pmlkjhg.png",
