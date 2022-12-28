@@ -1,32 +1,24 @@
 ﻿@page "/biome"
-@using BlazorApp1.Models;
+@using BlazorApp1.Models
 
 <PageTitle>Biomes</PageTitle>
 
 <h1>Sur cette page vous retrouverez l'intégralitée des biomes présent dans le jeu Minecraft ainsi que quelques informations sur ceux-ci</h1>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Nom</th>
-            <th>Version d'ajout</th>
-            <th>Type d'environnement</th>
-            <th>Image du biome</th>
-        </tr>
-    </thead>
-    <tbody>
-        @if (biomes != null)
-        {
-            @foreach (var element in biomes)
-            {
-                <tr>
-                    <td>@element.Nom</td>
-                    <td>@element.VersionAjout</td>
-                    <td>@element.Environemment</td>
-                    <td><img src="Image/@element.Image" class="img-thumbnail" alt="@element.Image"/></td>
-                </tr>
-            }
-        }
-    </tbody>
+<DataGrid TItem="BiomeItem"
+          Data="@biomes"
+          ReadData="@OnReadData"
+          TotalItems="@totalBiomes"
+          PageSize="10"
+          ShowPager
+          Responsive>
 
-</table>
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Nom)" Caption="Nom du biome" />
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.VersionAjout)" Caption="Version d'ajout" />
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Environemment)" Caption="Type d'environnement" />
+    <DataGridColumn Field="@(nameof(BiomeItem.Image))" Caption="Image du biome">
+        <DisplayTemplate>
+            <img src="@context.Image" class="img-thumbnail"/>
+        </DisplayTemplate>
+    </DataGridColumn>
+</DataGrid>

@@ -1,5 +1,9 @@
 using BlazorApp1.Models;
+using BlazorApp1.Services;
+using Blazored.LocalStorage;
+using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
+using Microsoft.AspNetCore.Hosting;
 
 namespace BlazorApp1.Pages
 {
@@ -11,16 +15,32 @@ namespace BlazorApp1.Pages
         private List<string> RepairWith = new List<string>() { "Bois", "Pierre", "Fer", "Or", "Diamand", "Autre" };
 
 
+        //[Inject]
+        // public ILogger<CreateLog> Logger { get; set; }
+
+        [Inject]
+        public NavigationManager NavigationManager { get; set; }
+
+        [Inject]
+        public IDataService DataService { get; set; }
+
+        [Inject]
+        public IWebHostEnvironment WebHostEnvironment { get; set; }
+
+
         private ToolModel tool = new()
         {
             
             EnchantCategories = new List<string>(),
-            RepairWith = new List<string>()
+            RepairWith = new List<string>(),
+            BuildWith= new List<string>()
         };
 
         private async void HandleValidSubmit()
         {
+            await DataService.Add(tool);
 
+            NavigationManager.NavigateTo("Inventaire");
         }
 
         private async Task LoadImage(InputFileChangeEventArgs e)
@@ -77,6 +97,12 @@ namespace BlazorApp1.Pages
                 return;
             }
 
+        }
+
+
+        private void CreateLog()
+        {
+            ///var logLevels = Enum.
         }
     }
 }

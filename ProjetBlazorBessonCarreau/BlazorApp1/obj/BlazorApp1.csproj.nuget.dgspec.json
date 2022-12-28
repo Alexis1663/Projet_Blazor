@@ -44,9 +44,21 @@
               "target": "Package",
               "version": "[4.3.0, )"
             },
+            "Blazorise.Bootstrap": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
             "Blazorise.DataGrid": {
               "target": "Package",
-              "version": "[1.1.4.1, )"
+              "version": "[1.1.5, )"
+            },
+            "Blazorise.Icons.FontAwesome": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

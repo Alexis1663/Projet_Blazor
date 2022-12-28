@@ -10,8 +10,6 @@ namespace BlazorApp1.Models
         [StringLength(30, ErrorMessage = "Le nom de l'objet ne doit pas dépasser 30 caractères.")]
         public string ToolName { get; set; }
 
-        public const int StackSize = 1;
-
         [Required(ErrorMessage = "Aucune durabilité renseignée !")]
         [Range(1, 200, ErrorMessage = "La durabilité est comprise entre 1 et 200")]
         public int ToolMaxDurability { get; set; }

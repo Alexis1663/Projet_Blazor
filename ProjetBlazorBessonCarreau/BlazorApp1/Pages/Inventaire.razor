@@ -1,6 +1,5 @@
 ﻿@page "/Inventaire"
-
-@using BlazorApp1.Models
+@using BlazorApp1.Models;
 
 <h3>Inventaire</h3>
 
@@ -10,4 +9,43 @@
     </NavLink>
 </div>
 
-<p>Gérez votre inventaire</p>
+<p>Ici, vous pouvez gérer tous les outils en votre possession</p>
+<DataGrid TItem="Tool"
+          Data="@tools"
+          ReadData="@OnReadData"
+          TotalItems="@totalTools"
+          PageSize="5"
+          ShowPager
+          Responsive>
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="ID" />
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolName)" Caption="Nom" />
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolMaxDurability)" Caption="Durabilité" />
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.EnchantCategories)" Caption="Enchantements">
+        <DisplayTemplate>
+            @(string.Join(", ", ((Tool)context).EnchantCategories))
+        </DisplayTemplate>
+    </DataGridColumn>
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.BuildWith)" Caption="A Fabriquer avec">
+        <DisplayTemplate>
+            @(string.Join(", ", ((Tool)context).BuildWith))
+        </DisplayTemplate>
+    </DataGridColumn>
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.RepairWith)" Caption="A réparer avec">
+        <DisplayTemplate>
+            @(string.Join(", ", ((Tool)context).RepairWith))
+        </DisplayTemplate>
+    </DataGridColumn>
+
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="Image">
+        <DisplayTemplate>
+            @if (File.Exists($"{WebHostEnvironment.WebRootPath}/images/{context.ToolName}.png"))
+            {
+                <img src="images/@(context.ToolName).png" class="img-thumbnail" alt="@context.ToolName" style="max-width: 150px" />
+            }
+            else
+            {
+                <img src="images/default.png" class="img-thumbnail" alt="@context.ToolName" style="max-width: 150px" />
+            }
+        </DisplayTemplate>
+    </DataGridColumn>
+</DataGrid>
