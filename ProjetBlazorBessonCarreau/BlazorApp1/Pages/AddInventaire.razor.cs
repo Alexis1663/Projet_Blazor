@@ -41,7 +41,7 @@ namespace BlazorApp1.Pages
             await DataService.Add(tool);
 
 
-            Logger.Log(LogLevel.Information, $"Un nouvel outil a été créé : Id : {tool.Id}");
+            Logger.Log(LogLevel.Information, $"Un nouvel outil a été créé : Id : {tool.Id}, Nom : {tool.ToolName}, Durabilité : {tool.ToolMaxDurability}, Enchantements : {tool.EnchantCategories.Count}, Ingrédients : {tool.BuildWith.Count}, Réparations : {tool.RepairWith.Count}");
             NavigationManager.NavigateTo("Inventaire");
         }
 

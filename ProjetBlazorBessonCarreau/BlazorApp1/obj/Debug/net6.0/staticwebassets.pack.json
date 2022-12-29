@@ -321,12 +321,24 @@
       "PackagePath": "staticwebassets\\images\\Jeremy.png"
     },
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\aqw.png",
+      "PackagePath": "staticwebassets\\images\\aqw.png"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",
       "PackagePath": "staticwebassets\\images\\azertyuiop.png"
     },
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfds.png",
+      "PackagePath": "staticwebassets\\images\\azertyuiopmlkjhgfds.png"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png",
       "PackagePath": "staticwebassets\\images\\azertyuiopmlkjhgfdsqwxcvbn.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azeruiop^mlkjhgfd.png",
+      "PackagePath": "staticwebassets\\images\\azeruiop^mlkjhgfd.png"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\default.png",

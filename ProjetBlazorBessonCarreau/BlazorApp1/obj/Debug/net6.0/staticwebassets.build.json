@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mLUOy8YkeSmftW2hG73uooH+KMdDjFb81XiXXA1p+18=",
+  "Hash": "N68j0ilQBuqnKQ20JN2rdmdusoZ/EjaDsy8TrssxU/Q=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -2040,6 +2040,23 @@
       "OriginalItemSpec": "wwwroot\\Image\\Vallee_ames.jpg"
     },
     {
+      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\aqw.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "images/aqw.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\aqw.png"
+    },
+    {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2057,6 +2074,23 @@
       "OriginalItemSpec": "wwwroot\\images\\azertyuiop.png"
     },
     {
+      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfds.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "images/azertyuiopmlkjhgfds.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\azertyuiopmlkjhgfds.png"
+    },
+    {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2072,6 +2106,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png"
+    },
+    {
+      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azeruiop^mlkjhgfd.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "images/azeruiop^mlkjhgfd.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\azeruiop^mlkjhgfd.png"
     },
     {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\default.png",
