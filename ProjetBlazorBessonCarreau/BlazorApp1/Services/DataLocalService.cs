@@ -33,7 +33,8 @@ namespace BlazorApp1.Services
             model.Id = currentData.Max(s => s.Id) + 1;
 
             // Add the item to the current data
-            currentData.Add(ToolFactory.Create(model));
+            Tool addTool = ToolFactory.Create(model);
+            currentData.Add(addTool);
 
             // Save the image
             var imagePathInfo = new DirectoryInfo($"{_webHostEnvironment.WebRootPath}/images");
@@ -145,6 +146,30 @@ namespace BlazorApp1.Services
 
             // Modify the content of the item
             ToolFactory.Update(item, model);
+
+            // Save the data
+            await _localStorage.SetItemAsync("data", currentData);
+        }
+
+        public async Task Delete(int id)
+        {
+            // Get the current data
+            var currentData = await _localStorage.GetItemAsync<List<Tool>>("data");
+
+            // Get the item int the list
+            var item = currentData.FirstOrDefault(w => w.Id == id);
+
+            // Delete item in
+            currentData.Remove(item);
+
+            // Delete the image
+            var imagePathInfo = new DirectoryInfo($"{_webHostEnvironment.WebRootPath}/images");
+            var fileName = new FileInfo($"{imagePathInfo}/{item.ToolName}.png");
+
+            if (fileName.Exists)
+            {
+                File.Delete(fileName.FullName);
+            }
 
             // Save the data
             await _localStorage.SetItemAsync("data", currentData);

@@ -13,5 +13,7 @@ namespace BlazorApp1.Services
         Task<Tool> GetById(int id);
 
         Task Update(int id, ToolModel model);
+
+        Task Delete(int id);
     }
 }

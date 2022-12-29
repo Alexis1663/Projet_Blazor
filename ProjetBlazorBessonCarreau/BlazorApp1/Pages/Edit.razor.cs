@@ -37,6 +37,9 @@ namespace BlazorApp1.Pages
         [Inject]
         public IWebHostEnvironment WebHostEnvironment { get; set; }
 
+        [Inject]
+        public ILogger<Edit> Logger { get; set; }
+
         protected override async Task OnInitializedAsync()
         {
             var item = await DataService.GetById(Id);
@@ -56,7 +59,12 @@ namespace BlazorApp1.Pages
         {
             await DataService.Update(Id, toolModel);
 
-            NavigationManager.NavigateTo("Inventaire");
+
+
+            Logger.Log(LogLevel.Information, $"L'outil : {Id} a été modifié");
+
+            //Va recharger la page pour être sur de prendre en compte tous les changements
+            NavigationManager.NavigateTo("Inventaire", true);
         }
 
         private async Task LoadImage(InputFileChangeEventArgs e)

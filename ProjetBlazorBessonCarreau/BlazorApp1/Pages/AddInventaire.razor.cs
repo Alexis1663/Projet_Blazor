@@ -15,8 +15,8 @@ namespace BlazorApp1.Pages
         private List<string> RepairWith = new List<string>() { "Bois", "Pierre", "Fer", "Or", "Diamand", "Autre" };
 
 
-        //[Inject]
-        // public ILogger<CreateLog> Logger { get; set; }
+        [Inject]
+        public ILogger<AddInventaire> Logger { get; set; }
 
         [Inject]
         public NavigationManager NavigationManager { get; set; }
@@ -40,6 +40,8 @@ namespace BlazorApp1.Pages
         {
             await DataService.Add(tool);
 
+
+            Logger.Log(LogLevel.Information, $"Un nouvel outil a été créé : Id : {tool.Id}");
             NavigationManager.NavigateTo("Inventaire");
         }
 

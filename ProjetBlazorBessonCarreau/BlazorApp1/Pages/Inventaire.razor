@@ -52,6 +52,7 @@
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="Action">
         <DisplayTemplate>
             <a href="Edit/@(context.Id)" class="btn btn-primary"><i class="fa fa-edit"></i> Editer</a>
+            <button type="button" class="btn btn-primary" @onclick="() => OnDelete(context.Id)"><i class="fa fa-trash"></i> Supprimer</button>
         </DisplayTemplate>
     </DataGridColumn>
 

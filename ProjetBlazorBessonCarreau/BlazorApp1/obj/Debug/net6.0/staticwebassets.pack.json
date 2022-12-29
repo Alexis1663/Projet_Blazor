@@ -317,10 +317,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Epee_diamant.png",
-      "PackagePath": "staticwebassets\\images\\Epee_diamant.png"
-    },
-    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Jeremy.png",
       "PackagePath": "staticwebassets\\images\\Jeremy.png"
     },
@@ -329,24 +325,52 @@
       "PackagePath": "staticwebassets\\images\\azertyuiop.png"
     },
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png",
+      "PackagePath": "staticwebassets\\images\\azertyuiopmlkjhgfdsqwxcvbn.png"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\default.png",
       "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\hopeitworks.png",
+      "PackagePath": "staticwebassets\\images\\hopeitworks.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\itemTest.png",
+      "PackagePath": "staticwebassets\\images\\itemTest.png"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\pmlkjhg.png",
       "PackagePath": "staticwebassets\\images\\pmlkjhg.png"
     },
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\retest.png",
+      "PackagePath": "staticwebassets\\images\\retest.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\sansimagebizarre.png",
+      "PackagePath": "staticwebassets\\images\\sansimagebizarre.png"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\sdfh.png",
       "PackagePath": "staticwebassets\\images\\sdfh.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\steup.png",
+      "PackagePath": "staticwebassets\\images\\steup.png"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\test.png",
       "PackagePath": "staticwebassets\\images\\test.png"
     },
     {
-      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\testqezzaeae.png",
-      "PackagePath": "staticwebassets\\images\\testqezzaeae.png"
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\tgb.png",
+      "PackagePath": "staticwebassets\\images\\tgb.png"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\un super item.png",
+      "PackagePath": "staticwebassets\\images\\un super item.png"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\zsdvbnjk5.png",

@@ -49,7 +49,7 @@
             @foreach (var item in BuildWith)
             {
                 <label>
-                    <input type="checkbox" @onchange="@(e => OnBuildWithChange(item, e.Value))" checked="@(toolModel.RepairWith.Contains(item) ? "checked" : null)" />@item
+                    <input type="checkbox" @onchange="@(e => OnBuildWithChange(item, e.Value))" checked="@(toolModel.BuildWith.Contains(item) ? "checked" : null)" />@item
                 </label>
             }
         </div>
@@ -57,7 +57,14 @@
     <p>
         <label>
             Image actuelle :
+            @if (File.Exists($"{WebHostEnvironment.WebRootPath}/images/{toolModel.ToolName}.png"))
+            {
                 <img src="images/@(toolModel.ToolName).png" class="img-thumbnail" alt="@toolModel.ToolName" style="max-width: 150px" />
+            }
+            else
+            {
+                <img src="images/default.png" class="img-thumbnail"  alt="@toolModel.ToolName" style="max-width: 150px" />
+            }
         </label>
     </p>
     <p>
@@ -68,4 +75,8 @@
     </p>
 
     <button type="submit">Submit</button>
+
+    <p>
+        Une fois les changement effectués, vous aurez besoin d'actualiser la page d'inventaire pour que ceux-ci apparaissent tous
+    </p>
 </EditForm>

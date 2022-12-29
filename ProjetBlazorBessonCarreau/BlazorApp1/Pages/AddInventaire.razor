@@ -48,7 +48,7 @@
             @foreach (var item in BuildWith)
             {
                 <label>
-                    <input type="checkbox" @onchange="@(e => OnRepairWithChange(item, e.Value))" />@item
+                    <input type="checkbox" @onchange="@(e => OnBuildWithChange(item, e.Value))" />@item
                 </label>
             }
         </div>

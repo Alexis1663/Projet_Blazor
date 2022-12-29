@@ -1,10 +1,13 @@
-﻿using BlazorApp1.Models;
+﻿using BlazorApp1.Modals;
+using BlazorApp1.Models;
 using BlazorApp1.Services;
 using Blazored.LocalStorage;
-using Blazorise;
+using Blazored.Modal;
+using Blazored.Modal.Services;
 using Blazorise.DataGrid;
 using Microsoft.AspNetCore.Components;
-using System.Diagnostics;
+using Microsoft.Extensions.Localization;
+using Microsoft.Extensions.Logging;
 
 namespace BlazorApp1.Pages
 {
@@ -12,6 +15,9 @@ namespace BlazorApp1.Pages
     {
         private int totalTools;
         private List<Tool> tools;
+
+        [Inject]
+        public ILogger<Inventaire> Logger { get; set; }
 
         [Inject]
         public HttpClient Http { get; set; }
@@ -23,8 +29,14 @@ namespace BlazorApp1.Pages
         [Inject]
         public NavigationManager NavigationManager { get; set; }
 
+        [CascadingParameter]
+        public IModalService Modal { get; set; }
+
         [Inject]
         public IWebHostEnvironment WebHostEnvironment { get; set; }
+
+
+
 
 
         private async Task OnReadData(DataGridReadDataEventArgs<Tool> e)
@@ -39,6 +51,27 @@ namespace BlazorApp1.Pages
                 tools = await DataService.List(e.Page, e.PageSize);
                 totalTools = await DataService.Count();
             }
+        }
+
+        private async void OnDelete(int id)
+        {
+            var parameters = new ModalParameters();
+            
+            parameters.Add(nameof(Tool.Id), id);
+
+            var modal = Modal.Show<DeleteConfirmation>("Delete Confirmation", parameters);
+            var result = await modal.Result;
+
+            if (result.Cancelled)
+            {
+                return;
+            }
+
+            await DataService.Delete(id);
+
+            Logger.Log(LogLevel.Information, $"Un outil a été supprimé : Identifiant de l'outil supprimé : {id}");
+            // Reload the page
+            NavigationManager.NavigateTo("Inventaire", true);
         }
     }
 }
