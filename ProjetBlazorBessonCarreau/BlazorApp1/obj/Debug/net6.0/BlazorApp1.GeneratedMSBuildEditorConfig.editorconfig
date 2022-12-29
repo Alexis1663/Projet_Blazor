@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/Mob.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Modals/DeleteConfirmation.razor]
 build_metadata.AdditionalFiles.TargetPath = TW9kYWxzXERlbGV0ZUNvbmZpcm1hdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Biome.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlvbWUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Edit.razor]
