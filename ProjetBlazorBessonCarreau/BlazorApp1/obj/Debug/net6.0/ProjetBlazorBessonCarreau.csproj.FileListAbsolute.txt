@@ -1,8 +1,0 @@
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.csproj.AssemblyReference.cache
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.AssemblyInfoInputs.cache
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.AssemblyInfo.cs
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.csproj.CoreCompileInputs.cache
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.RazorAssemblyInfo.cache
-C:\Users\alexi\OneDrive\Bureau\Code\ProjetBlazor\ProjetBlazorBessonCarreau\BlazorApp1\obj\Debug\net6.0\ProjetBlazorBessonCarreau.RazorAssemblyInfo.cs
