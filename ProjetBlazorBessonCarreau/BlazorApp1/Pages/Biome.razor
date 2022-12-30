@@ -9,7 +9,7 @@
           Data="@biomes"
           ReadData="@OnReadData"
           TotalItems="@totalBiomes"
-          PageSize="10"
+          PageSize="7"
           ShowPager
           Responsive>
 
@@ -18,7 +18,9 @@
     <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Environemment)" Caption="Type d'environnement" />
     <DataGridColumn Field="@(nameof(BiomeItem.Image))" Caption="Image du biome">
         <DisplayTemplate>
-            <img src="@context.Image" class="img-thumbnail"/>
+            <a href="biomemobs/@(1)" class="btn btn-primary">
+                <img src="@context.Image" class="img-thumbnail"/>
+            </a>
         </DisplayTemplate>
     </DataGridColumn>
 </DataGrid>

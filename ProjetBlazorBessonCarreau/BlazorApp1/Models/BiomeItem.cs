@@ -11,5 +11,7 @@
         public Env Environemment { get; set; }
 
         public String Image { get; set; }
+
+        public List<MobClass> Mobs { get; set; }
     }
 }

@@ -7,14 +7,14 @@
   },
 
   {
-    "Nom": "Océan gelée",
+    "Nom": "Océan gelé",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
     "Image": "Image/ocean_gelee.jpg"
   },
 
   {
-    "Nom": "Océan gelée profond",
+    "Nom": "Océan gelé profond",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
     "Image": "Image/ocean_gelee_profond.jpg"

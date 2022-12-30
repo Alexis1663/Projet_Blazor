@@ -20,7 +20,15 @@ namespace BlazorApp1.Models
 
         public List<string> BuildWith { get; set; }
 
-        //[Required(ErrorMessage = "Il est nécessaire d'ajouter une image pour l'outil !")]
+        /*
+        public List<string> RepairWith64 { get; set; }
+
+        //[Required(ErrorMessage = "Une ingrédient principal doit être renseigné ! ")]
+        public string BuildWith64 { get; set; }
+        */
+
+
+        [Required(ErrorMessage = "Il est nécessaire d'ajouter une image pour l'outil !")]
         public byte[] ImageContent { get; set; }
 
     }

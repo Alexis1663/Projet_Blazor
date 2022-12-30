@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\Components\\BiomeMobs.razor.js",
+      "PackagePath": "staticwebassets\\Components\\BiomeMobs.razor.js"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorApp1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\AvailableMobs.json",
+      "PackagePath": "staticwebassets\\AvailableMobs.json"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Abimes.jpg",
@@ -245,6 +253,10 @@
       "PackagePath": "staticwebassets\\Image\\ocean_tiede_profond.jpg"
     },
     {
+      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\pigman.png",
+      "PackagePath": "staticwebassets\\Image\\pigman.png"
+    },
+    {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\plage_enneigee.jpg",
       "PackagePath": "staticwebassets\\Image\\plage_enneigee.jpg"
     },
@@ -319,10 +331,6 @@
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Jeremy.png",
       "PackagePath": "staticwebassets\\images\\Jeremy.png"
-    },
-    {
-      "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\aqw.png",
-      "PackagePath": "staticwebassets\\images\\aqw.png"
     },
     {
       "Id": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",

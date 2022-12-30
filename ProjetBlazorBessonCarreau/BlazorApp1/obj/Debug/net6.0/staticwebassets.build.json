@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N68j0ilQBuqnKQ20JN2rdmdusoZ/EjaDsy8TrssxU/Q=",
+  "Hash": "S5sKU3LJU7g6F4DqG3T00okeS30yQUFLCIaD8tSeCgo=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -680,6 +680,23 @@
       "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Pickr.js"
     },
     {
+      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\Components\\BiomeMobs.razor.js",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "Components/BiomeMobs.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Components\\BiomeMobs.razor.js"
+    },
+    {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Computed",
@@ -712,6 +729,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\AvailableMobs.json",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "AvailableMobs.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AvailableMobs.json"
     },
     {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\biome-fake-data.json",
@@ -1683,6 +1717,23 @@
       "OriginalItemSpec": "wwwroot\\Image\\Pics_rocheux.jpg"
     },
     {
+      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\pigman.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "Image/pigman.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\pigman.png"
+    },
+    {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plage.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2038,23 +2089,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Image\\Vallee_ames.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\aqw.png",
-      "SourceId": "BlazorApp1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
-      "BasePath": "_content/BlazorApp1",
-      "RelativePath": "images/aqw.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\aqw.png"
     },
     {
       "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",
