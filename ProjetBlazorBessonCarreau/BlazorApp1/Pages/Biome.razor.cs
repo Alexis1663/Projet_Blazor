@@ -1,10 +1,8 @@
-using Microsoft.AspNetCore.Components;
+﻿using Microsoft.AspNetCore.Components;
 using BlazorApp1.Models;
 using Blazorise.DataGrid;
 using Blazored.LocalStorage;
 using Blazorise;
-
-using Microsoft.Extensions.Localization;
 
 namespace BlazorApp1.Pages
 {
@@ -15,9 +13,6 @@ namespace BlazorApp1.Pages
 
         [Inject]
         public HttpClient Http { get; set; }
-
-        [Inject]
-        public IStringLocalizer<Biome> Localizer { get; set; }
 
         [Inject]
         public ILocalStorageService LocalStorage { get; set; }

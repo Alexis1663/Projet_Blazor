@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S5sKU3LJU7g6F4DqG3T00okeS30yQUFLCIaD8tSeCgo=",
+  "Hash": "4XDnLvDolsfRRPpf7awCkFQHq8IZEXmCdj5fzzrHnAM=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp1\\wwwroot",
       "Source": "BlazorApp1",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css",
       "SourceId": "Blazored.Modal",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
       "BasePath": "_content/Blazored.Modal",
       "RelativePath": "Blazored.Modal.bundle.scp.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js",
       "SourceId": "Blazored.Modal",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
       "BasePath": "_content/Blazored.Modal",
       "RelativePath": "BlazoredModal.razor.js",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.css",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.css",
       "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise.Bootstrap",
       "RelativePath": "blazorise.bootstrap.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.min.css",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.min.css",
       "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise.Bootstrap",
       "RelativePath": "blazorise.bootstrap.min.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\blazorise.bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\modal.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\modal.js",
       "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise.Bootstrap",
       "RelativePath": "modal.js",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\modal.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\modal.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\tooltip.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\tooltip.js",
       "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise.Bootstrap",
       "RelativePath": "tooltip.js",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\tooltip.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.5\\staticwebassets\\tooltip.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise.datagrid\\1.1.5\\staticwebassets\\datagrid.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.datagrid\\1.1.5\\staticwebassets\\datagrid.js",
       "SourceId": "Blazorise.DataGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise.datagrid\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.datagrid\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise.DataGrid",
       "RelativePath": "datagrid.js",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise.datagrid\\1.1.5\\staticwebassets\\datagrid.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise.datagrid\\1.1.5\\staticwebassets\\datagrid.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.css",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.css",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "blazorise.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.min.css",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.min.css",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "blazorise.min.css",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.min.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\blazorise.min.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\breakpoint.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\breakpoint.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "breakpoint.js",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\breakpoint.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\breakpoint.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\button.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\button.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "button.js",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\button.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\button.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\closable.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\closable.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "closable.js",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\closable.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\closable.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\colorPicker.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\colorPicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "colorPicker.js",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\colorPicker.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\colorPicker.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\datePicker.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\datePicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "datePicker.js",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\datePicker.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\datePicker.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dragDrop.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dragDrop.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "dragDrop.js",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dragDrop.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dragDrop.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dropdown.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dropdown.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "dropdown.js",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dropdown.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\dropdown.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\fileEdit.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\fileEdit.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "fileEdit.js",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\fileEdit.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\fileEdit.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\filePicker.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\filePicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "filePicker.js",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\filePicker.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\filePicker.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\inputMask.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\inputMask.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "inputMask.js",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\inputMask.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\inputMask.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\io.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\io.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "io.js",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\io.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\io.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\memoEdit.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\memoEdit.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "memoEdit.js",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\memoEdit.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\memoEdit.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\numericPicker.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\numericPicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "numericPicker.js",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\numericPicker.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\numericPicker.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\observer.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\observer.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "observer.js",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\observer.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\observer.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\popper.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\popper.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "popper.js",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\popper.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\table.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\table.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "table.js",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\table.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\table.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\textEdit.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\textEdit.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "textEdit.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\textEdit.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\textEdit.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\theme.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\theme.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "theme.js",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\theme.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\theme.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\timePicker.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\timePicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "timePicker.js",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\timePicker.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\timePicker.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\tooltip.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\tooltip.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "tooltip.js",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\tooltip.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\tooltip.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\utilities.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\utilities.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "utilities.js",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\utilities.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\utilities.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\DateTimeMaskValidator.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\DateTimeMaskValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/DateTimeMaskValidator.js",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\DateTimeMaskValidator.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\DateTimeMaskValidator.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NoValidator.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NoValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/NoValidator.js",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NoValidator.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NoValidator.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NumericMaskValidator.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NumericMaskValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/NumericMaskValidator.js",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NumericMaskValidator.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\NumericMaskValidator.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\RegExMaskValidator.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\RegExMaskValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/RegExMaskValidator.js",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\RegExMaskValidator.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\validators\\RegExMaskValidator.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\autoNumeric.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\autoNumeric.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/autoNumeric.js",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\autoNumeric.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\autoNumeric.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Behave.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Behave.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/Behave.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Behave.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Behave.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\flatpickr.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\flatpickr.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/flatpickr.js",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\flatpickr.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\flatpickr.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\inputmask.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\inputmask.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/inputmask.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\inputmask.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\inputmask.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Pickr.js",
+      "Identity": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Pickr.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/Pickr.js",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Pickr.js"
+      "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Pickr.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\Components\\BiomeMobs.razor.js",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\Components\\BiomeMobs.razor.js",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Components/BiomeMobs.razor.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "Components\\BiomeMobs.razor.js"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "BlazorApp1.styles.css",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "BlazorApp1.bundle.scp.css",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\AvailableMobs.json",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\AvailableMobs.json",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "AvailableMobs.json",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\AvailableMobs.json"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\biome-fake-data.json",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\biome-fake-data.json",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "biome-fake-data.json",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\biome-fake-data.json"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\css\\site.css",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\fake-data-tool.json",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\fake-data-tool.json",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "fake-data-tool.json",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\fake-data-tool.json"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\favicon.ico",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Abimes.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Abimes.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Abimes.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Abimes.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Bosquet.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Bosquet.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Bosquet.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Bosquet.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Canyon.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Canyon.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Canyon.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Canyon.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Canyon_erodees.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Canyon_erodees.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Canyon_erodees.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Canyon_erodees.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Cavernes_luxuriantes.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Cavernes_luxuriantes.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Cavernes_luxuriantes.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Cavernes_luxuriantes.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Cavernes_speleothemes.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Cavernes_speleothemes.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Cavernes_speleothemes.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Cavernes_speleothemes.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Champs_champignons.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Champs_champignons.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Champs_champignons.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Champs_champignons.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\cote_rocheuse.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\cote_rocheuse.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/cote_rocheuse.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\cote_rocheuse.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Deltas_basalte.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Deltas_basalte.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Deltas_basalte.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Deltas_basalte.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Desert.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Desert.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Desert.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Desert.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\End.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\End.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/End.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\End.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\fondBois.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\fondBois.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/fondBois.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\fondBois.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_biscornue.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_biscornue.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret_biscornue.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret_biscornue.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_bouleaux.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_bouleaux.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret_bouleaux.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret_bouleaux.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_carmin.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_carmin.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret_carmin.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret_carmin.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_fleurie.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_fleurie.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret_fleurie.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret_fleurie.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_grand_bouleaux.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_grand_bouleaux.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret_grand_bouleaux.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret_grand_bouleaux.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_sombre.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Foret_sombre.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Foret_sombre.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Foret_sombre.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Hautes_terres_end.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Hautes_terres_end.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Hautes_terres_end.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Hautes_terres_end.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Jungle.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Jungle.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Jungle.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Jungle.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Jungle_bambous.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Jungle_bambous.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Jungle_bambous.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Jungle_bambous.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Marais.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Marais.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Marais.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Marais.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Marais_mangroves.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Marais_mangroves.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Marais_mangroves.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Marais_mangroves.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Montagne.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Montagne.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne_boisees.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne_boisees.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Montagne_boisees.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Montagne_boisees.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne_graveleuses.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Montagne_graveleuses.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Montagne_graveleuses.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Montagne_graveleuses.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_chaud.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_chaud.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_chaud.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_chaud.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_froid.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_froid.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_froid.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_froid.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_froid_profond.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_froid_profond.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_froid_profond.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_froid_profond.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_gelee.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_gelee.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_gelee.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_gelee.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_gelee_profond.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_gelee_profond.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_gelee_profond.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_gelee_profond.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_profond.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_profond.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_profond.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_profond.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_tiede.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_tiede.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_tiede.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_tiede.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_tiede_profond.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\ocean_tiede_profond.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/ocean_tiede_profond.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\ocean_tiede_profond.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Oree_jungle.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Oree_jungle.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Oree_jungle.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Oree_jungle.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pentes_enneigees.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pentes_enneigees.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Pentes_enneigees.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Pentes_enneigees.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Petites_iles_end.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Petites_iles_end.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Petites_iles_end.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Petites_iles_end.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_denteles.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_denteles.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Pics_denteles.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Pics_denteles.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_geles.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_geles.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Pics_geles.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Pics_geles.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_rocheux.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Pics_rocheux.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Pics_rocheux.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Pics_rocheux.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\pigman.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\pigman.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/pigman.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\pigman.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plage.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plage.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Plage.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Plage.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\plage_enneigee.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\plage_enneigee.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/plage_enneigee.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\plage_enneigee.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plaine.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plaine.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Plaine.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Plaine.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plaine_tournesols.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plaine_tournesols.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Plaine_tournesols.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Plaine_tournesols.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plateau_canyon_boisees.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plateau_canyon_boisees.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Plateau_canyon_boisees.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Plateau_canyon_boisees.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plateau_savane.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Plateau_savane.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Plateau_savane.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Plateau_savane.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Prairie.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Prairie.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Prairie.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Prairie.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\riviere.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\riviere.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/riviere.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\riviere.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\riviere_gelee.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\riviere_gelee.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/riviere_gelee.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\riviere_gelee.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Savane.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Savane.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Savane.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Savane.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Savane_accidentee.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Savane_accidentee.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Savane_accidentee.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Savane_accidentee.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Stalagmites_glace.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Stalagmites_glace.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Stalagmites_glace.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Stalagmites_glace.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Taiga.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Taiga.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_enneigee.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_enneigee.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Taiga_enneigee.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Taiga_enneigee.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_grand_arbre.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_grand_arbre.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Taiga_grand_arbre.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Taiga_grand_arbre.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_grand_sapin.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Taiga_grand_sapin.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Taiga_grand_sapin.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Taiga_grand_sapin.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_desolees_Nether.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_desolees_Nether.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Terres_desolees_Nether.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Terres_desolees_Nether.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_moyennes_end.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_moyennes_end.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Terres_moyennes_end.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Terres_moyennes_end.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_stériles_end.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Terres_stériles_end.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Terres_stériles_end.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Terres_stériles_end.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Toundra_enneigee.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Toundra_enneigee.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Toundra_enneigee.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Toundra_enneigee.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Vallee_ames.jpg",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\Image\\Vallee_ames.jpg",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "Image/Vallee_ames.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\Vallee_ames.jpg"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiop.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/azertyuiop.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\azertyuiop.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfds.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfds.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/azertyuiopmlkjhgfds.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\azertyuiopmlkjhgfds.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/azertyuiopmlkjhgfdsqwxcvbn.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\azertyuiopmlkjhgfdsqwxcvbn.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azeruiop^mlkjhgfd.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\azeruiop^mlkjhgfd.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/azeruiop^mlkjhgfd.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\azeruiop^mlkjhgfd.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\default.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\default.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/default.png",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\default.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\hopeitworks.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\hopeitworks.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/hopeitworks.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hopeitworks.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\itemTest.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\itemTest.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/itemTest.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\itemTest.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Jeremy.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\Jeremy.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/Jeremy.png",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Jeremy.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\pmlkjhg.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\pmlkjhg.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/pmlkjhg.png",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pmlkjhg.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\retest.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\retest.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/retest.png",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\retest.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\sansimagebizarre.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\sansimagebizarre.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/sansimagebizarre.png",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sansimagebizarre.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\sdfh.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\sdfh.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/sdfh.png",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sdfh.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\steup.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\steup.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/steup.png",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\steup.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\test.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\test.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/test.png",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\test.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\tgb.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\tgb.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/tgb.png",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tgb.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\un super item.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\un super item.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/un super item.png",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\un super item.png"
     },
     {
-      "Identity": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\zsdvbnjk5.png",
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\images\\zsdvbnjk5.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\besso\\Source\\Repos\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\ProjetBlazorJeremy\\Projet_Blazor-d8826be1dbeb7da59bfcc8b05de9351eb150d986\\ProjetBlazorBessonCarreau\\BlazorApp1\\wwwroot\\",
       "BasePath": "_content/BlazorApp1",
       "RelativePath": "images/zsdvbnjk5.png",
       "AssetKind": "All",
