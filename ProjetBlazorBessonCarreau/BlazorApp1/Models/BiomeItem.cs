@@ -2,6 +2,7 @@
 {
     public class BiomeItem
     {
+        public int Id { get; set; } 
         public enum Env { Hostile, Paysible }
 
         public String Nom { get; set; }

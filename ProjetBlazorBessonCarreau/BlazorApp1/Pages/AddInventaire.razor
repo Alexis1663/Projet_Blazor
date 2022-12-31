@@ -1,26 +1,26 @@
 @page "/AddInventaire"
 
-<h3>@Localizer["Title"]</h3>
+<h3>Ajout d'outils dans l'inventaire</h3>
 
-<p>@Localizer["Sous-titre"]</p>
+<p>Utilisez le formulaire ci-dessous pour ajouter un item dans votre inventaire</p>
 
 <EditForm Model="@tool" OnValidSubmit="@HandleValidSubmit">
     <DataAnnotationsValidator/>
     <ValidationSummary />
 <p>
         <label for="name">
-            @Localizer["Propriete1"] :
+            Nom:
             <InputText id="name" @bind-Value="tool.ToolName" />
         </label>
     </p>
         <p>
         <label for="tool-max-durability">
-            @Localizer["Propriete2"] :
+            Durabilité de l'outil :
             <InputNumber id="tool-max-durability" @bind-Value="tool.ToolMaxDurability"/>
         </label>
     </p>
         <p>
-        @Localizer["Propriete3"] :
+        Enchantements:
         <div>
             @foreach (var item in EnchantCategories)
             {
@@ -32,7 +32,7 @@
     </p>
  
        <p>
-        @Localizer["Propriete4"]  :
+        A réparer avec :
         <div>
             @foreach (var item in RepairWith)
             {
@@ -43,7 +43,7 @@
         </div>
     </p>
     <p>
-        @Localizer["Propriete5"]  :
+        A construire avec :
         <div>
             @foreach (var item in BuildWith)
             {
@@ -55,10 +55,10 @@
     </p>
     <p>
         <label>
-            @Localizer["Propriete6"] :
+            Image de l'outil:
             <InputFile OnChange="@LoadImage" accept=".png" />
         </label>
     </p>
 
-    <button type="submit">@Localizer["Button"]</button>
+    <button type="submit">Ajouter</button>
 </EditForm>
