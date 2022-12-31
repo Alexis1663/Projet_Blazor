@@ -1,15 +1,16 @@
 ﻿@page "/Inventaire"
 @using BlazorApp1.Models;
 
-<h3>Inventaire</h3>
+<h3>@Localizer["Title"]</h3>
 
 <div>
     <NavLink class="btn btn-primary" href="AddInventaire" Match="NavLinkMatch.All">
-        <i class="fa fa-plus"></i> Ajouter un outil
+        <i class="fa fa-plus"></i> @Localizer["AddButton"]
     </NavLink>
 </div>
 
-<p>Ici, vous pouvez gérer tous les outils en votre possession</p>
+<p>@Localizer["Sous-titre"]</p>
+
 <DataGrid TItem="Tool"
           Data="@tools"
           ReadData="@OnReadData"
@@ -17,26 +18,31 @@
           PageSize="5"
           ShowPager
           Responsive>
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="ID" />
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolName)" Caption="Nom" />
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolMaxDurability)" Caption="Durabilité" />
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.EnchantCategories)" Caption="Enchantements">
+
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="@Localizer["th1"]" />
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolName)" Caption="@Localizer["th2"]" />
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolMaxDurability)" Caption="@Localizer["th3"]" />
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.EnchantCategories)" Caption="@Localizer["th4"]">
+
         <DisplayTemplate>
             @(string.Join(", ", ((Tool)context).EnchantCategories))
         </DisplayTemplate>
+
     </DataGridColumn>
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.BuildWith)" Caption="A Fabriquer avec">
+
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.BuildWith)" Caption="@Localizer["th4-1"]">
         <DisplayTemplate>
             @(string.Join(", ", ((Tool)context).BuildWith))
         </DisplayTemplate>
     </DataGridColumn>
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.RepairWith)" Caption="A réparer avec">
+
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.RepairWith)" Caption="@Localizer["th4-2"]">
         <DisplayTemplate>
             @(string.Join(", ", ((Tool)context).RepairWith))
         </DisplayTemplate>
     </DataGridColumn>
 
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="Image">
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="@Localizer["th5"]">
         <DisplayTemplate>
             @if (File.Exists($"{WebHostEnvironment.WebRootPath}/images/{context.ToolName}.png"))
             {
@@ -49,10 +55,10 @@
         </DisplayTemplate>
     </DataGridColumn>
 
-    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="Action">
+    <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="@Localizer["th6"]">
         <DisplayTemplate>
-            <a href="Edit/@(context.Id)" class="btn btn-primary"><i class="fa fa-edit"></i> Editer</a>
-            <button type="button" class="btn btn-primary" @onclick="() => OnDelete(context.Id)"><i class="fa fa-trash"></i> Supprimer</button>
+            <a href="Edit/@(context.Id)" class="btn btn-primary"><i class="fa fa-edit"></i> @Localizer["EditButton"]</a>
+            <button type="button" class="btn btn-primary" @onclick="() => OnDelete(context.Id)"><i class="fa fa-trash"></i> @Localizer["DelButton"]</button>
         </DisplayTemplate>
     </DataGridColumn>
 

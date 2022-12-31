@@ -1,8 +1,8 @@
 ﻿@page "/edit/{Id:int}"
 
-<h3>Edit</h3>
+<h3>@Localizer["Title"]</h3>
 
-<div>Mon paramètre: @Id</div>
+<div>@Localizer["Param"]: @Id</div>
 
 <EditForm Model="@toolModel" OnValidSubmit="@HandleValidSubmit">
     <DataAnnotationsValidator />
@@ -10,18 +10,18 @@
 
     <p>
         <label for="name">
-            Nom:
+            @Localizer["Propriete1"] :
             <InputText id="name" @bind-Value="toolModel.ToolName" />
         </label>
     </p>
     <p>
         <label for="tool-max-durability">
-            Durabilité:
+            @Localizer["Propriete2"] :
             <InputNumber id="tool-max-durability" @bind-Value="toolModel.ToolMaxDurability" />
         </label>
     </p>
     <p>
-        Enchantements:
+        @Localizer["Propriete3"] :
         <div>
             @foreach (var item in EnchantCategories)
             {
@@ -32,7 +32,7 @@
         </div>
     </p>
     <p>
-        A réparer avec:
+        @Localizer["Propriete4"] :
         <div>
             @foreach (var item in RepairWith)
             {
@@ -44,7 +44,7 @@
     </p>
 
     <p>
-        Construit avec:
+        @Localizer["Propriete5"] :
         <div>
             @foreach (var item in BuildWith)
             {
@@ -56,7 +56,7 @@
     </p>
     <p>
         <label>
-            Image actuelle :
+            @Localizer["Propriete6"] :
             @if (File.Exists($"{WebHostEnvironment.WebRootPath}/images/{toolModel.ToolName}.png"))
             {
                 <img src="images/@(toolModel.ToolName).png" class="img-thumbnail" alt="@toolModel.ToolName" style="max-width: 150px" />
@@ -69,10 +69,10 @@
     </p>
     <p>
         <label>
-            Image de l'outil:
+            @Localizer["Propriete7"] :
             <InputFile OnChange="@LoadImage" accept=".png" />
         </label>
     </p>
 
-    <button type="submit">Submit</button>
+    <button type="submit">@Localizer["Button"] </button>
 </EditForm>
