@@ -12,10 +12,5 @@ namespace BlazorApp1.Models
         public List<string> RepairWith { get; set; }
 
         public List<string> BuildWith { get; set; }
-
-        /*
-        public string BuildWith64 { get; set; }
-
-        */
     }
 }

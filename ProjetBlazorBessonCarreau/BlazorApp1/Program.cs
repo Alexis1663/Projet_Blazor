@@ -7,6 +7,9 @@ using Blazorise.Icons.FontAwesome;
 using Microsoft.Extensions.Logging;
 using BlazorApp1.Services;
 using Blazored.Modal;
+using Microsoft.AspNetCore.Localization;
+using System.Globalization;
+using Microsoft.Extensions.Options;
 
 //Création de la base du builder
 var builder = WebApplication.CreateBuilder(args);
@@ -29,6 +32,23 @@ builder.Services.AddScoped<IDataService, DataLocalService>();
 
 builder.Logging.AddConfiguration(builder.Configuration.GetSection("Logging"));
 
+// Add the controller of the app
+builder.Services.AddControllers();
+
+// Add the localization to the app and specify the resources path
+builder.Services.AddLocalization(opts => { opts.ResourcesPath = "Resources"; });
+
+// Configure the localtization
+builder.Services.Configure<RequestLocalizationOptions>(options =>
+{
+    // Set the default culture of the web site
+    options.DefaultRequestCulture = new RequestCulture(new CultureInfo("fr-FR"));
+
+    // Declare the supported culture
+    options.SupportedCultures = new List<CultureInfo> { new CultureInfo("fr-FR"), new CultureInfo("en-US") };
+    options.SupportedUICultures = new List<CultureInfo> { new CultureInfo("fr-FR"), new CultureInfo("en-US") };
+});
+
 //Build
 var app = builder.Build();
 
@@ -45,6 +65,21 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+// Get the current localization options
+var options = ((IApplicationBuilder)app).ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
+
+if (options?.Value != null)
+{
+    // use the default localization
+    app.UseRequestLocalization(options.Value);
+}
+
+// Add the controller to the endpoint
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
 
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");

@@ -4,6 +4,7 @@ using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Localization;
 
 namespace BlazorApp1.Pages
 {
@@ -14,6 +15,8 @@ namespace BlazorApp1.Pages
         private List<string> BuildWith = new List<string>() { "Bâton", "Bois", " Pierre", "Fer", "Or", "Diamand", "Autres" };
         private List<string> RepairWith = new List<string>() { "Bois", "Pierre", "Fer", "Or", "Diamand", "Autre" };
 
+        [Inject]
+        public IStringLocalizer<AddInventaire> Localizer { get; set; }
 
         [Inject]
         public ILogger<AddInventaire> Logger { get; set; }
