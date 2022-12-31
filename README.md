@@ -20,6 +20,8 @@ Il n'y a pas détape particulière à réaliser pour le lancement de l'applicati
   - Use API(pas entièrement fonctionnelle)
   - Utilisation IOC & DI
   - Localisation & Globalisation(Français et Anglais)
+  - Utilisation de la configuration
+  - Logs
 
 5. Auteur
 
