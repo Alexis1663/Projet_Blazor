@@ -8,6 +8,19 @@ Il n'y a pas détape particulière à réaliser pour le lancement de l'applicati
 
 2. Problème présent sur le projet
 
-3. Auteur
+  - L'utilisation de l'API n'est pas complétement fonctionnelle car nous avons rencontré des bugs que nous n'avons pas réussi à résoudre.
+
+4. Fonctionnalitées présentent sur le projet
+
+  - Mise en place d'une page de visualisation des données avec pagination
+  - Page d'ajout d'un élement avec validation
+  - Page d'édition d'un élement avec validation
+  - Supression d'un élement avec une confirmation
+  - Composant complexe(drag and drop accèssible en cliquant sur n'importe quelle image de biome.
+  - Use API(pas entièrement fonctionnelle)
+  - Utilisation IOC & DI
+  - Localisation & Globalisation(Français et Anglais)
+
+5. Auteur
 
 Ce projet a été réaliser dans le cadre d'un projet de 2ème année à l'I.U.T de Clermont-Ferrand avec le framework Blazor par CARREAU Alexis et BESSON Jeremy.
