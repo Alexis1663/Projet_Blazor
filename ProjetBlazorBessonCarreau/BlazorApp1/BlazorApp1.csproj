@@ -15,6 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Components\BiomeMobs.razor" />
+    <None Include="Components\GestionMob.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Blazored.LocalStorage" Version="4.3.0" />
     <PackageReference Include="Blazored.Modal" Version="7.1.0" />
     <PackageReference Include="Blazorise.Bootstrap" Version="1.1.5" />

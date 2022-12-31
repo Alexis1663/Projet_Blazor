@@ -20,8 +20,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/Mob.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2IucmF6b3I=
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/BiomeMobs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCaW9tZU1vYnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Modals/DeleteConfirmation.razor]
@@ -55,6 +55,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/GestionMob.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHZXN0aW9uTW9iLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-86mm0krr2p
 
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=

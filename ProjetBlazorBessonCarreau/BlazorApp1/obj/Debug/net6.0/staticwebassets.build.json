@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Emu3dpNuL5xr3hy83zPDmdmBlKdsItSyu7E3PeRLq8s=",
+  "Hash": "sEgxBXA5VOEvwQWx1tU0CzsKvByHqL6x4yc67xJw0mQ=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -678,6 +678,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.5\\staticwebassets\\vendors\\Pickr.js"
+    },
+    {
+      "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\Components\\BiomeMobs.razor.js",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "Components/BiomeMobs.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Components\\BiomeMobs.razor.js"
     },
     {
       "Identity": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1.styles.css",

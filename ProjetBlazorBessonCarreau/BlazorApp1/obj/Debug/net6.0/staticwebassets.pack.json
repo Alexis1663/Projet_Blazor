@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\Components\\BiomeMobs.razor.js",
+      "PackagePath": "staticwebassets\\Components\\BiomeMobs.razor.js"
+    },
+    {
       "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\Projet_Blazor\\ProjetBlazorBessonCarreau\\BlazorApp1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorApp1.bundle.scp.css"
     },

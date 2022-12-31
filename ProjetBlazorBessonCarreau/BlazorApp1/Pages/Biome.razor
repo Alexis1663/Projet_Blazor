@@ -18,7 +18,9 @@
     <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Environemment)" Caption="@Localizer["th3"]" />
     <DataGridColumn Field="@(nameof(BiomeItem.Image))" Caption="@Localizer["th4"]">
         <DisplayTemplate>
-            <img src="@context.Image" class="img-thumbnail"/>
+            <a href="biomemobs/@(context.Id-1)" class="btn btn-primary">
+                <img src="@context.Image" class="img-thumbnail" />
+            </a>
         </DisplayTemplate>
     </DataGridColumn>
 </DataGrid>
