@@ -9,12 +9,14 @@ namespace BlazorApp1.Models
     {
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Il est nécessaire de renseigner le nom de l'outil !")]
-        [StringLength(30, ErrorMessage = "Le nom de l'objet ne doit pas dépasser 30 caractères.")]
+        [Required(ErrorMessage = "Il est nï¿½cessaire de renseigner le nom de l'outil !")]
+        [StringLength(30, ErrorMessage = "Le nom de l'objet ne doit pas dï¿½passer 30 caractï¿½res.")]
         public string ToolName { get; set; }
 
-        [Required(ErrorMessage = "Aucune durabilité renseignée !")]
-        [Range(1, 200, ErrorMessage = "La durabilité est comprise entre 1 et 200")]
+        [Required(ErrorMessage = "Aucune durabilitÃ© renseignÃ©e !")]
+        [Range(1, 200, ErrorMessage = "La durabilitÃ© est comprise entre 1 et 200")]
+        [Required(ErrorMessage = "Aucune durabilitï¿½ renseignï¿½e !")]
+        [Range(1, 200, ErrorMessage = "La durabilitï¿½ est comprise entre 1 et 200")]
         public int ToolMaxDurability { get; set; }
 
         public List<string> EnchantCategories { get; set; }
@@ -23,7 +25,9 @@ namespace BlazorApp1.Models
 
         public List<string> BuildWith { get; set; }
 
-        [Required(ErrorMessage = "Il est nécessaire d'ajouter une image pour l'outil !")]
+
+        [Required(ErrorMessage = "Il est nï¿½cessaire d'ajouter une image pour l'outil !")]
+
         public byte[] ImageContent { get; set; }
 
     }

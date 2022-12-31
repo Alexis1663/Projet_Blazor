@@ -35,10 +35,8 @@ namespace BlazorApp1.Pages
         [Inject]
         public IWebHostEnvironment WebHostEnvironment { get; set; }
 
-
         [Inject]
         public IStringLocalizer<Inventaire> Localizer { get; set; }
-
 
         private async Task OnReadData(DataGridReadDataEventArgs<Tool> e)
         {

@@ -17,11 +17,6 @@
         },
         "runtime": {
           "BlazorApp1.dll": {}
-        },
-        "resources": {
-          "en-US/BlazorApp1.resources.dll": {
-            "locale": "en-US"
-          }
         }
       },
       "Blazored.LocalStorage/4.3.0": {

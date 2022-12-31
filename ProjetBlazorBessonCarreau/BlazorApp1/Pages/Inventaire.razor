@@ -10,6 +10,7 @@
 </div>
 
 <p>@Localizer["Sous-titre"]</p>
+
 <DataGrid TItem="Tool"
           Data="@tools"
           ReadData="@OnReadData"
@@ -17,19 +18,24 @@
           PageSize="5"
           ShowPager
           Responsive>
+
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.Id)" Caption="@Localizer["th1"]" />
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolName)" Caption="@Localizer["th2"]" />
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.ToolMaxDurability)" Caption="@Localizer["th3"]" />
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.EnchantCategories)" Caption="@Localizer["th4"]">
+
         <DisplayTemplate>
             @(string.Join(", ", ((Tool)context).EnchantCategories))
         </DisplayTemplate>
+
     </DataGridColumn>
+
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.BuildWith)" Caption="@Localizer["th4-1"]">
         <DisplayTemplate>
             @(string.Join(", ", ((Tool)context).BuildWith))
         </DisplayTemplate>
     </DataGridColumn>
+
     <DataGridColumn TItem="Tool" Field="@nameof(Tool.RepairWith)" Caption="@Localizer["th4-2"]">
         <DisplayTemplate>
             @(string.Join(", ", ((Tool)context).RepairWith))

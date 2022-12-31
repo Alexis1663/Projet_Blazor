@@ -6,15 +6,19 @@ using Blazorise.Bootstrap;
 using Blazorise.Icons.FontAwesome;
 using Microsoft.Extensions.Logging;
 using BlazorApp1.Services;
+
 using Blazored.Modal;
+
+//Cr√©ation de la base du builder
+
 using Microsoft.AspNetCore.Localization;
 using System.Globalization;
 using Microsoft.Extensions.Options;
 
-//CrÈation de la base du builder
+//Cr√©ation de la base du builder
 var builder = WebApplication.CreateBuilder(args);
 
-// Ajout de tous les services nÈcessaires au builder de l'application
+// Ajout de tous les services n√©cessaires au builder de l'application
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 

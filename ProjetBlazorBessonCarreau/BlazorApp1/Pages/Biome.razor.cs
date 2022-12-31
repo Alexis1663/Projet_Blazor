@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Components;
 using BlazorApp1.Models;
 using Blazorise.DataGrid;
+
 using Microsoft.Extensions.Localization;
 
 namespace BlazorApp1.Pages
