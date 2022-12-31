@@ -1,36 +1,26 @@
 ﻿[
   {
-    "Id" :  "1",
     "Nom": "Océan",
     "VersionAjout": "1.6",
     "Environnement": "Paysible",
-    "Image": "Image/ocean.jpg",
-    "Mobs": [
-      {
-        "Name": "Homme Cochon",
-        "Image": "Image/pigman.png"
-      }
-    ]
+    "Image": "Image/ocean.jpg"
   },
 
   {
-    "Id": "2",
-    "Nom": "Océan gelé",
+    "Nom": "Océan gelée",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
     "Image": "Image/ocean_gelee.jpg"
   },
 
   {
-    "Id": "3",
-    "Nom": "Océan gelé profond",
+    "Nom": "Océan gelée profond",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
     "Image": "Image/ocean_gelee_profond.jpg"
   },
 
   {
-    "Id": "4",
     "Nom": "Océan froid",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -38,7 +28,6 @@
   },
 
   {
-    "Id": "5",
     "Nom": "Océan froid profond",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -46,7 +35,6 @@
   },
 
   {
-    "Id": "6",
     "Nom": "Océan profond",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -54,7 +42,6 @@
   },
 
   {
-    "Id": "7",
     "Nom": "Océan tiède",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -62,7 +49,6 @@
   },
 
   {
-    "Id": "8",
     "Nom": "Océan tiède profond",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -70,7 +56,6 @@
   },
 
   {
-    "Id": "9",
     "Nom": "Océan chaud",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -78,7 +63,6 @@
   },
 
   {
-    "Id": "10",
     "Nom": "Rivière",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -86,7 +70,6 @@
   },
 
   {
-    "Id": "11",
     "Nom": "Rivière gelée",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -94,7 +77,6 @@
   },
 
   {
-    "Id": "12",
     "Nom": "Plage",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -102,7 +84,6 @@
   },
 
   {
-    "Id": "13",
     "Nom": "Plage enneigée",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -110,7 +91,6 @@
   },
 
   {
-    "Id": "14",
     "Nom": "Côte rocheuse",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -118,7 +98,6 @@
   },
 
   {
-    "Id": "15",
     "Nom": "Plaine",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -126,7 +105,6 @@
   },
 
   {
-    "Id": "16",
     "Nom": "Plaine de tournesols",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -134,7 +112,6 @@
   },
 
   {
-    "Id": "17",
     "Nom": "Forêt",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -142,7 +119,6 @@
   },
 
   {
-    "Id": "18",
     "Nom": "Forêt fleurie",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -150,7 +126,6 @@
   },
 
   {
-    "Id": "19",
     "Nom": "Forêt de bouleaux",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -158,7 +133,6 @@
   },
 
   {
-    "Id": "20",
     "Nom": "Forêt de grand bouleaux",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -166,7 +140,6 @@
   },
 
   {
-    "Id": "21",
     "Nom": "Forêt sombre",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -174,7 +147,6 @@
   },
 
   {
-    "Id": "22",
     "Nom": "Taïga",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -182,7 +154,6 @@
   },
 
   {
-    "Id": "23",
     "Nom": "Taïga à grand arbre",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -190,7 +161,6 @@
   },
 
   {
-    "Id": "24",
     "Nom": "Taïga à grand sapin",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -198,7 +168,6 @@
   },
 
   {
-    "Id": "25",
     "Nom": "Jungle",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -206,7 +175,6 @@
   },
 
   {
-    "Id": "26",
     "Nom": "Orée de la jungle",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -214,7 +182,6 @@
   },
 
   {
-    "Id": "27",
     "Nom": "Jungle de bambous",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -222,7 +189,6 @@
   },
 
   {
-    "Id": "28",
     "Nom": "Montagne",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -230,7 +196,6 @@
   },
 
   {
-    "Id": "29",
     "Nom": "Montagne graveleuses",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -238,7 +203,6 @@
   },
 
   {
-    "Id": "30",
     "Nom": "Montagne boisées",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -246,7 +210,6 @@
   },
 
   {
-    "Id": "31",
     "Nom": "Marais",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -254,7 +217,6 @@
   },
 
   {
-    "Id": "32",
     "Nom": "Marais à mangroves",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -262,7 +224,6 @@
   },
 
   {
-    "Id": "33",
     "Nom": "Désert",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -270,7 +231,6 @@
   },
 
   {
-    "Id": "34",
     "Nom": "Savane",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -278,7 +238,6 @@
   },
 
   {
-    "Id": "35",
     "Nom": "Savane accidentée",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -286,7 +245,6 @@
   },
 
   {
-    "Id": "36",
     "Nom": "Plateau de savane",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -294,7 +252,6 @@
   },
 
   {
-    "Id": "37",
     "Nom": "Canyon",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -302,7 +259,6 @@
   },
 
   {
-    "Id": "38",
     "Nom": "Canyon érodées",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -310,7 +266,6 @@
   },
 
   {
-    "Id": "39",
     "Nom": "Plateau de canyon boisées",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -318,7 +273,6 @@
   },
 
   {
-    "Id": "40",
     "Nom": "Toundra enneigée",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -326,7 +280,6 @@
   },
 
   {
-    "Id": "41",
     "Nom": "Stalagmites de glace",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -334,7 +287,6 @@
   },
 
   {
-    "Id": "42",
     "Nom": "Taïga enneigée",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -342,7 +294,6 @@
   },
 
   {
-    "Id": "43",
     "Nom": "Bosquet",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -350,7 +301,6 @@
   },
 
   {
-    "Id": "44",
     "Nom": "Prairie",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -358,7 +308,6 @@
   },
 
   {
-    "Id": "45",
     "Nom": "Pentes enneigées",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -366,7 +315,6 @@
   },
 
   {
-    "Id": "46",
     "Nom": "Pics gelés",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -374,7 +322,6 @@
   },
 
   {
-    "Id": "47",
     "Nom": "Pics dentelés",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -382,7 +329,6 @@
   },
 
   {
-    "Id": "48",
     "Nom": "Pics rocheux",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -390,7 +336,6 @@
   },
 
   {
-    "Id": "49",
     "Nom": "Cavernes de spéléothèmes",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -398,7 +343,6 @@
   },
 
   {
-    "Id": "50",
     "Nom": "Cavernes luxuriantes",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -406,7 +350,6 @@
   },
 
   {
-    "Id": "51",
     "Nom": "Abîmes",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -414,7 +357,6 @@
   },
 
   {
-    "Id": "52",
     "Nom": "Champs de champignons",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -422,7 +364,6 @@
   },
 
   {
-    "Id": "53",
     "Nom": "Terres désolées du Nether",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -430,7 +371,6 @@
   },
 
   {
-    "Id": "54",
     "Nom": "Vallée des âmes",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -438,7 +378,6 @@
   },
 
   {
-    "Id": "55",
     "Nom": "Forêt carmin",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -446,7 +385,6 @@
   },
 
   {
-    "Id": "56",
     "Nom": "Forêt biscornue",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -454,7 +392,6 @@
   },
 
   {
-    "Id": "57",
     "Nom": "Deltas de basalte",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -462,7 +399,6 @@
   },
 
   {
-    "Id": "58",
     "Nom": "L'End",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -470,7 +406,6 @@
   },
 
   {
-    "Id": "59",
     "Nom": "Petites îles de l'End",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -478,7 +413,6 @@
   },
 
   {
-    "Id": "60",
     "Nom": "Terres moyennes de l'End",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -486,7 +420,6 @@
   },
 
   {
-    "Id": "61",
     "Nom": "Hautes terres de l'End",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",
@@ -494,7 +427,6 @@
   },
 
   {
-    "Id": "62",
     "Nom": "Terres stériles de l'End",
     "VersionAjout": "1.13",
     "Environnement": "Paysible",

@@ -3,11 +3,15 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
 using BlazorApp1.Models;
 using BlazorApp1.Factories;
+using Microsoft.Extensions.Localization;
 
 namespace BlazorApp1.Pages
 {
     public partial class Edit
     {
+        [Inject]
+        public IStringLocalizer<Edit> Localizer { get; set; }
+
         [Parameter]
         public int Id { get; set; }
 
