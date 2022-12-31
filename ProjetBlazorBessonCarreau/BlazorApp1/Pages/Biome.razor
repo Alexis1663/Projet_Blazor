@@ -1,26 +1,24 @@
 ﻿@page "/biome"
 @using BlazorApp1.Models
 
-<PageTitle>Biomes</PageTitle>
+<PageTitle>@Localizer["Title"]</PageTitle>
 
-<h1>Sur cette page vous retrouverez l'intégralitée des biomes présent dans le jeu Minecraft ainsi que quelques informations sur ceux-ci</h1>
+<h3>@Localizer["Header"]</h3>
 
 <DataGrid TItem="BiomeItem"
           Data="@biomes"
           ReadData="@OnReadData"
           TotalItems="@totalBiomes"
-          PageSize="7"
+          PageSize="10"
           ShowPager
           Responsive>
 
-    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Nom)" Caption="Nom du biome" />
-    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.VersionAjout)" Caption="Version d'ajout" />
-    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Environemment)" Caption="Type d'environnement" />
-    <DataGridColumn Field="@(nameof(BiomeItem.Image))" Caption="Image du biome">
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Nom)" Caption="@Localizer["th1"]" />
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.VersionAjout)" Caption="@Localizer["th2"]" />
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Environemment)" Caption="@Localizer["th3"]" />
+    <DataGridColumn Field="@(nameof(BiomeItem.Image))" Caption="@Localizer["th4"]">
         <DisplayTemplate>
-            <a href="biomemobs/@(1)" class="btn btn-primary">
-                <img src="@context.Image" class="img-thumbnail"/>
-            </a>
+            <img src="@context.Image" class="img-thumbnail"/>
         </DisplayTemplate>
     </DataGridColumn>
 </DataGrid>

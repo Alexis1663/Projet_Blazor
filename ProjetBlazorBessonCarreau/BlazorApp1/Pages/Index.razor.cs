@@ -1,4 +1,6 @@
-﻿using BlazorApp1.Models;
+using BlazorApp1.Models;
+using Microsoft.AspNetCore.Components;
+using Microsoft.Extensions.Localization;
 
 namespace BlazorApp1.Pages
 {
@@ -6,6 +8,9 @@ namespace BlazorApp1.Pages
     {
 
         public List<MobClass> Mobs { get; set;  }
+
+        [Inject]
+        public IStringLocalizer<Index> Localizer { get; set; }
 
         protected override Task OnAfterRenderAsync(bool firstRender)
         {
