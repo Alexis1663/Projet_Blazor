@@ -9,6 +9,7 @@ Il n'y a pas détape particulière à réaliser pour le lancement de l'applicati
 2. Problème présent sur le projet
 
   - L'utilisation de l'API n'est pas complétement fonctionnelle car nous avons rencontré des bugs que nous n'avons pas réussi à résoudre.
+  - Le drag and drop est parfaitement fonctionnel, son but est de pouvoir ajouter facilement des monstres dans une liste de monstres présents dans chacun des biomes, cette liste est unique pour chacun des biomes. Cependant, la récupération des données concernant les biomes ne fonctionne pas tout à fait comme prévue.
 
 4. Fonctionnalitées présentent sur le projet
 
