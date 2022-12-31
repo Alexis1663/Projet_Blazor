@@ -1,0 +1,24 @@
+﻿@page "/biome"
+@using BlazorApp1.Models
+
+<PageTitle>@Localizer["Title"]</PageTitle>
+
+<h3>@Localizer["Header"]</h3>
+
+<DataGrid TItem="BiomeItem"
+          Data="@biomes"
+          ReadData="@OnReadData"
+          TotalItems="@totalBiomes"
+          PageSize="10"
+          ShowPager
+          Responsive>
+
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Nom)" Caption="@Localizer["th1"]" />
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.VersionAjout)" Caption="@Localizer["th2"]" />
+    <DataGridColumn TItem="BiomeItem" Field="@nameof(BiomeItem.Environemment)" Caption="@Localizer["th3"]" />
+    <DataGridColumn Field="@(nameof(BiomeItem.Image))" Caption="@Localizer["th4"]">
+        <DisplayTemplate>
+            <img src="@context.Image" class="img-thumbnail"/>
+        </DisplayTemplate>
+    </DataGridColumn>
+</DataGrid>

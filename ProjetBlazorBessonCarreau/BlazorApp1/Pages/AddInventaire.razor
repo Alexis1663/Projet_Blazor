@@ -1,0 +1,64 @@
+@page "/AddInventaire"
+
+<h3>@Localizer["Title"]</h3>
+
+<p>@Localizer["Sous-titre"]</p>
+
+<EditForm Model="@tool" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator/>
+    <ValidationSummary />
+<p>
+        <label for="name">
+            @Localizer["Propriete1"] :
+            <InputText id="name" @bind-Value="tool.ToolName" />
+        </label>
+    </p>
+        <p>
+        <label for="tool-max-durability">
+            @Localizer["Propriete2"] :
+            <InputNumber id="tool-max-durability" @bind-Value="tool.ToolMaxDurability"/>
+        </label>
+    </p>
+        <p>
+        @Localizer["Propriete3"] :
+        <div>
+            @foreach (var item in EnchantCategories)
+            {
+                <label>
+                    <input type="checkbox" @onchange="@(e => OnEnchantCategoriesChange(item, e.Value))" />@item
+                </label>
+            }
+        </div>
+    </p>
+ 
+       <p>
+        @Localizer["Propriete4"]  :
+        <div>
+            @foreach (var item in RepairWith)
+            {
+                <label>
+                    <input type="checkbox" @onchange="@(e => OnRepairWithChange(item, e.Value))" />@item
+                </label>
+            }
+        </div>
+    </p>
+    <p>
+        @Localizer["Propriete5"]  :
+        <div>
+            @foreach (var item in BuildWith)
+            {
+                <label>
+                    <input type="checkbox" @onchange="@(e => OnBuildWithChange(item, e.Value))" />@item
+                </label>
+            }
+        </div>
+    </p>
+    <p>
+        <label>
+            @Localizer["Propriete6"] :
+            <InputFile OnChange="@LoadImage" accept=".png" />
+        </label>
+    </p>
+
+    <button type="submit">@Localizer["Button"]</button>
+</EditForm>
