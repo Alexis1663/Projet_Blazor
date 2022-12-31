@@ -2,23 +2,21 @@
     <nav class="flex-row">
         <div class="nav-item px-3 home">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span aria-hidden="true"></span> Nom de l'application
-            </NavLink>
-        </div>  
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="biome">
-                <span aria-hidden="true"></span> Les biomes
+                <span aria-hidden="true"></span> @Localizer["ApplicationName"]
             </NavLink>
         </div>
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+            <NavLink class="nav-link" href="biome">
+                <span aria-hidden="true"></span> @Localizer["Onglet1"]
             </NavLink>
         </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="Inventaire">
-                <span aria-hidden="true"></span> Inventaire
+                <span aria-hidden="true"></span> @Localizer["Onglet2"]
             </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <LanguageSelector />
         </div>
     </nav>
 </div>

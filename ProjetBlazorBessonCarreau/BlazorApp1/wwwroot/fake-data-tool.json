@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+
+    "toolname": "Epee_diamant",
+
+    "toolmaxdurability": 150,
+
+    "enchantcategories": [ "aura de feu" ],
+
+    "repairwith": [ "diamant" ],
+
+    "buildwith": [ "diamant" ]
+
+  },
+  {
+    "id": 2,
+
+    "toolname": "Epee_fer",
+
+    "toolmaxdurability": 150,
+
+    "enchantcategories": [ "aura de feu" ],
+
+    "repairwith": [ "fer" ],
+
+    "buildwith": [ "fer" ]
+
+  }
+]
