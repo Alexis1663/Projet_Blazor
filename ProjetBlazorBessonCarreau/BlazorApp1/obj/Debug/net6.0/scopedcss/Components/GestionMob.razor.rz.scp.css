@@ -1,0 +1,11 @@
+.mob[b-86mm0krr2p] {
+    width: 124px;
+    height: 124px;
+    border: 1px solid;
+    overflow: hidden;
+}
+
+.AvailableMobs[b-86mm0krr2p] {
+    display: inline-flex;
+    flex-wrap: wrap;
+}

@@ -1,6 +1,16 @@
-/* _content/BlazorApp1/Pages/Biome.razor.rz.scp.css */
-#tableau[b-yu8wssb93l]{
-    width: 100%;
+@import '_content/Blazored.Modal/Blazored.Modal.bundle.scp.css';
+
+/* _content/BlazorApp1/Components/GestionMob.razor.rz.scp.css */
+.mob[b-86mm0krr2p] {
+    width: 124px;
+    height: 124px;
+    border: 1px solid;
+    overflow: hidden;
+}
+
+.AvailableMobs[b-86mm0krr2p] {
+    display: inline-flex;
+    flex-wrap: wrap;
 }
 /* _content/BlazorApp1/Pages/Index.razor.rz.scp.css */
 .presentation[b-70cdui5b69]{
@@ -74,6 +84,10 @@ main[b-45rkf8v3vv] {
     }
 }
 /* _content/BlazorApp1/Shared/NavMenu.razor.rz.scp.css */
+.NavMenuCssClass[b-b5wscdn8ts] {
+    background-image: url(../Image/fondBois.png);
+}
+
 nav[b-b5wscdn8ts]{
     display: flex;
     align-items: center;

@@ -1,0 +1,11 @@
+﻿.mob {
+    width: 124px;
+    height: 124px;
+    border: 1px solid;
+    overflow: hidden;
+}
+
+.AvailableMobs {
+    display: inline-flex;
+    flex-wrap: wrap;
+}

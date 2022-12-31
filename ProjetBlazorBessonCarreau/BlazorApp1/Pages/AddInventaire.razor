@@ -1,26 +1,26 @@
 @page "/AddInventaire"
 
-<h3>Ajout d'outils dans l'inventaire</h3>
+<h3>@Localizer["Title"]</h3>
 
-<p>Utilisez le formulaire ci-dessous pour ajouter un item dans votre inventaire</p>
+<p>@Localizer["Sous-titre"]</p>
 
 <EditForm Model="@tool" OnValidSubmit="@HandleValidSubmit">
-    <DataAnnotationsValidator />
+    <DataAnnotationsValidator/>
     <ValidationSummary />
 <p>
         <label for="name">
-            Nom:
+            @Localizer["Propriete1"] :
             <InputText id="name" @bind-Value="tool.ToolName" />
         </label>
     </p>
         <p>
         <label for="tool-max-durability">
-            Durabilité de l'outil :
+            @Localizer["Propriete2"] :
             <InputNumber id="tool-max-durability" @bind-Value="tool.ToolMaxDurability"/>
         </label>
     </p>
         <p>
-        Enchantements:
+        @Localizer["Propriete3"] :
         <div>
             @foreach (var item in EnchantCategories)
             {
@@ -32,7 +32,7 @@
     </p>
  
        <p>
-        A réparer avec :
+        @Localizer["Propriete4"]  :
         <div>
             @foreach (var item in RepairWith)
             {
@@ -43,28 +43,22 @@
         </div>
     </p>
     <p>
-        A construire avec :
+        @Localizer["Propriete5"]  :
         <div>
             @foreach (var item in BuildWith)
             {
                 <label>
-                    <input type="checkbox" @onchange="@(e => OnRepairWithChange(item, e.Value))" />@item
+                    <input type="checkbox" @onchange="@(e => OnBuildWithChange(item, e.Value))" />@item
                 </label>
             }
         </div>
     </p>
     <p>
         <label>
-            Image de l'outil:
+            @Localizer["Propriete6"] :
             <InputFile OnChange="@LoadImage" accept=".png" />
         </label>
     </p>
-    <p>
-        <label>
-            Usage réservé à l'outil:
-            <InputText id="toolUse" @bind-Value="tool.ToolUse" />
-        </label>
-    </p>
 
-    <button type="submit">Ajouter</button>
+    <button type="submit">@Localizer["Button"]</button>
 </EditForm>
