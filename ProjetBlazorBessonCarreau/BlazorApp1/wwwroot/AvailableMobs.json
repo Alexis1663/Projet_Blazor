@@ -3,10 +3,26 @@
     "Name": "Homme Cochon",
     "Image": "Image/pigman.png"
   },
-  
+
   {
-    "Name": "Homme Cochon",
+    "Name": "Enderman",
+    "Image": "Image/pigman.png"
+  },
+
+  {
+    "Name": "Zombie",
+    "Image": "Image/pigman.png"
+  },
+
+  {
+    "Name": "Squelette",
+    "Image": "Image/pigman.png"
+  },
+
+  {
+    "Name": "Araignée",
     "Image": "Image/pigman.png"
   }
+
 
 ]
