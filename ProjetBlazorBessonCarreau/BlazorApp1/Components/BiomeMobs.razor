@@ -10,7 +10,7 @@
                 <div>
                     <!--Faire un foreach sur une liste de monstre du biome et mettre des emplacements libres-->
                     <div class="css-grid">
-                        @if (Items != null)
+                        @if(Items != null)
                         {
                             @foreach (var item in Items)
                             {
@@ -39,9 +39,9 @@
                 <div class="AvailableMobs">
                     <p>Monstres disponibles</p>
                 
-                    @if (AvailableMobs != null)
+                    @if (MobsDispos != null)
                     {
-                        @foreach (var item in AvailableMobs)
+                        @foreach (var item in MobsDispos)
                         {
                             <GestionMob mob="item"/>
                         }

@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp1
 build_property.RootNamespace = BlazorApp1
-build_property.ProjectDir = C:\Users\alexi\OneDrive\Bureau\Code\Blazor\Projet_Blazor\ProjetBlazorBessonCarreau\BlazorApp1\
+build_property.ProjectDir = C:\Users\besso\Source\Repos\Projet_Blazor\ProjetBlazorBessonCarreau\BlazorApp1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alexi\OneDrive\Bureau\Code\Blazor\Projet_Blazor\ProjetBlazorBessonCarreau\BlazorApp1
+build_property.MSBuildProjectDirectory = C:\Users\besso\Source\Repos\Projet_Blazor\ProjetBlazorBessonCarreau\BlazorApp1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/App.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/BiomeMobs.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/BiomeMobs.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCaW9tZU1vYnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Modals/DeleteConfirmation.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Modals/DeleteConfirmation.razor]
 build_metadata.AdditionalFiles.TargetPath = TW9kYWxzXERlbGV0ZUNvbmZpcm1hdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/AddInventaire.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/AddInventaire.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSW52ZW50YWlyZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Biome.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Biome.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlvbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Edit.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Edit.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Inventaire.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Inventaire.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50YWlyZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/LanguageSelector.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/LanguageSelector.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExhbmd1YWdlU2VsZWN0b3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/SurveyPrompt.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/_Imports.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/GestionMob.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Components/GestionMob.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHZXN0aW9uTW9iLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-86mm0krr2p
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Index.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-70cdui5b69
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/MainLayout.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-45rkf8v3vv
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/NavMenu.razor]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-b5wscdn8ts
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Error.cshtml]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/_Host.cshtml]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/_Layout.cshtml]
+[C:/Users/besso/Source/Repos/Projet_Blazor/ProjetBlazorBessonCarreau/BlazorApp1/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

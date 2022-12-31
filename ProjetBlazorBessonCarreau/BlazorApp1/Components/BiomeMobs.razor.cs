@@ -31,7 +31,7 @@ namespace BlazorApp1.Components
         public BiomeItem[] Biomes { get; set; }
 
         //Monstres disponibles
-        public List<MobClass> AvailableMobs { get; set; }
+        public List<MobClass> MobsDispos { get; set; }
 
         [Inject]
         public ILocalStorageService LocalStorage { get; set; }
@@ -46,13 +46,13 @@ namespace BlazorApp1.Components
         [Inject]
         internal IJSRuntime JavaScriptRuntime { get; set; }
 
-        protected override async Task OnAfterRenderAsync(bool firstrender)
+        protected override async Task OnInitializedAsync()
         {
             //En essayant d'utiliser OnInitializedAsync ici, il y a un bug en essayant de récupréer les données de biome, mais étrangement, il ne se manifeste que si la ligne avec "Items" n'est pas commentée
             //Cependant,  en utilisant OnAfterRenderAsync, aucune données ne s'affiche bien que le bug ne se présente pas (même les mobs dispos ne sont pas montrés)
-            Biomes = await LocalStorage.GetItemAsync<BiomeItem[]>("dataBiome");
-            AvailableMobs = (await Http.GetFromJsonAsync<MobClass[]>($"{NavigationManager.BaseUri}AvailableMobs.json")).ToList();
-            Items = Biomes[IdBiome].Mobs;
+            //Biomes = await LocalStorage.GetItemAsync<BiomeItem[]>("dataBiome");
+            MobsDispos = (await Http.GetFromJsonAsync<MobClass[]>($"{NavigationManager.BaseUri}AvailableMobs.json")).ToList();
+            //Items = Biomes[IdBiome].Mobs;
         }
 
 
